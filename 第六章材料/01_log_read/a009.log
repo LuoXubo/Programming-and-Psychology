@@ -1,0 +1,1616 @@
+Scenario - 												
+Logfile written - 08/09/2012 11:29:36																							
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index												
+Gary	0	Pulse	255	976678	976678	NA						
+Gary	1	Picture	greenbox1	976921	0	1	30159	2	0	30000	other	0
+Gary	1	Pulse	255	996679	19758	NA						
+Gary	2	Picture	crossISI_4_8	1007246	0	1	120137	2	0	120000	other	0
+Gary	2	Pulse	255	1016680	9434	NA						
+Gary	2	Pulse	255	1036681	29435	NA						
+Gary	2	Pulse	255	1056682	49436	NA						
+Gary	2	Response	1	1071014	63768	1						
+Gary	2	Response	3	1073213	65967	1						
+Gary	2	Pulse	255	1076683	69437	NA						
+Gary	2	Pulse	255	1096684	89438	NA						
+Gary	2	Pulse	255	1116686	109440	NA						
+Gary	3	Picture	Display Scale	1127549	0	2	30159	4	0	next	other	0
+Gary	3	Pulse	255	1136687	9138	NA						
+Gary	3	Pulse	255	1156688	29139	NA						
+Gary	3	Manual	Rated:   : 75	1157550	30001							
+Gary	4	Picture	cross_4_65	1157708	0	2	105141	3	0	105000	other	0
+Gary	4	Pulse	255	1176689	18981	NA						
+Gary	4	Pulse	255	1196690	38982	NA						
+Gary	4	Pulse	255	1216691	58983	NA						
+Gary	4	Pulse	255	1236692	78984	NA						
+Gary	4	Response	2	1246296	88588	1						
+Gary	4	Response	4	1248162	90454	2						
+Gary	4	Pulse	255	1256693	98985	NA						
+Gary	5	Picture	Display Scale	1263015	0	2	14497	3	0	next	other	0
+Gary	5	Pulse	255	1276694	13679	NA						
+Gary	5	Response	1	1277439	14424	2						
+Gary	5	Response	3	1279657	16642	1						
+Gary	5	Response	1	1280260	17245	1						
+Gary	5	Response	3	1281689	18674	1						
+Gary	5	Response	1	1282651	19636	1						
+Gary	5	Response	3	1283866	20851	2						
+Gary	5	Pulse	255	1296695	33680	NA						
+Gary	5	Manual	Rated: Difficulty : 16	1313010	49995							
+Gary	6	Picture	Display Scale	1313169	0	2	15496	4	0	next	other	0
+Gary	6	Pulse	255	1316696	3527	NA						
+Gary	6	Response	1	1328506	15337	1						
+Gary	6	Response	3	1330121	16952	2						
+Gary	6	Response	1	1330900	17731	1						
+Gary	6	Response	3	1332351	19182	1						
+Gary	6	Response	1	1333297	20128	1						
+Gary	6	Response	3	1334633	21464	1						
+Gary	6	Pulse	255	1336697	23528	NA						
+Gary	6	Pulse	255	1356699	43530	NA						
+Gary	6	Manual	Rated: This pain : 20	1363170	50001							
+Gary	7	Picture	crossITI_8	1363323	0	2	80147	3	0	80000	other	0
+Gary	7	Pulse	255	1376700	13377	NA						
+Gary	7	Pulse	255	1396701	33378	NA						
+Gary	7	Pulse	255	1416702	53379	NA						
+Gary	7	Pulse	255	1436703	73380	NA						
+Gary	8	Picture	Right	1443637	0	1	25160	2	0	25000	other	0
+Gary	8	Pulse	255	1456704	13067	NA						
+Gary	9	Picture	redbox1	1471796	15000	1	30159	2	15000	30000	other	0
+Gary	9	Pulse	255	1476705	19909	NA						
+Gary	9	Pulse	255	1496706	39910	NA						
+Gary	10	Picture	crossISI_4_8	1502122	0	1	120136	3	0	120000	other	0
+Gary	10	Pulse	255	1516707	14585	NA						
+Gary	10	Pulse	255	1536708	34586	NA						
+Gary	10	Response	1	1544128	42006	1						
+Gary	10	Response	3	1546233	44111	1						
+Gary	10	Pulse	255	1556709	54587	NA						
+Gary	10	Pulse	255	1576711	74589	NA						
+Gary	10	Pulse	255	1596712	94590	NA						
+Gary	10	Pulse	255	1616713	114591	NA						
+Gary	11	Picture	redbox2	1622425	0	1	30159	2	0	30000	other	0
+Gary	11	Pulse	255	1636714	14289	NA						
+Gary	12	Picture	cross_4_65	1652751	0	1	105140	2	0	105000	other	0
+Gary	12	Pulse	255	1656715	3964	NA						
+Gary	12	Pulse	255	1676716	23965	NA						
+Gary	12	Response	1	1693404	40653	1						
+Gary	12	Response	3	1695478	42727	1						
+Gary	12	Pulse	255	1696717	43966	NA						
+Gary	12	Pulse	255	1716718	63967	NA						
+Gary	12	Pulse	255	1736719	83968	NA						
+Gary	12	Pulse	255	1756720	103969	NA						
+Gary	13	Picture	Display Scale	1758058	0	1	13663	2	0	next	other	0
+Gary	13	Response	1	1771694	13636	1						
+Gary	13	Pulse	255	1776721	18663	NA						
+Gary	13	Response	3	1778423	20365	1						
+Gary	13	Pulse	255	1796722	38664	NA						
+Gary	13	Manual	Rated: Difficulty : 8	1808050	49992							
+Gary	14	Picture	Display Scale	1808212	0	1	20995	2	0	next	other	0
+Gary	14	Pulse	255	1816724	8512	NA						
+Gary	14	Response	2	1829193	20981	1						
+Gary	14	Response	4	1830513	22301	1						
+Gary	14	Response	2	1831732	23520	1						
+Gary	14	Response	4	1833039	24827	2						
+Gary	14	Pulse	255	1836725	28513	NA						
+Gary	14	Pulse	255	1856726	48514	NA						
+Gary	14	Manual	Rated: Difference : 67	1858210	49998							
+Gary	15	Picture	crossITI_8	1858366	0	1	80146	3	0	80000	other	0
+Gary	15	Pulse	255	1876727	18361	NA						
+Gary	15	Pulse	255	1896728	38362	NA						
+Gary	15	Pulse	255	1916729	58363	NA						
+Gary	15	Pulse	255	1936730	78364	NA						
+Gary	16	Picture	greenbox1	1938679	0	1	30159	2	0	30000	other	0
+Gary	16	Pulse	255	1956731	18052	NA						
+Gary	17	Picture	crossISI_4_8	1969005	0	1	120136	2	0	120000	other	0
+Gary	17	Pulse	255	1976732	7727	NA						
+Gary	17	Pulse	255	1996733	27728	NA						
+Gary	17	Pulse	255	2016734	47729	NA						
+Gary	17	Pulse	255	2036735	67730	NA						
+Gary	17	Pulse	255	2056737	87732	NA						
+Gary	17	Response	1	2074018	105013	1						
+Gary	17	Response	3	2075859	106854	1						
+Gary	17	Pulse	255	2076738	107733	NA						
+Gary	18	Picture	Display Scale	2089308	0	1	30159	2	0	next	other	0
+Gary	18	Pulse	255	2096739	7431	NA						
+Gary	18	Pulse	255	2116740	27432	NA						
+Gary	18	Manual	Rated:   : 75	2119300	29992							
+Gary	19	Picture	cross_4_65	2119467	0	1	105140	2	0	105000	other	0
+Gary	19	Pulse	255	2136741	17274	NA						
+Gary	19	Pulse	255	2156742	37275	NA						
+Gary	19	Pulse	255	2176743	57276	NA						
+Gary	19	Response	1	2181560	62093	2						
+Gary	19	Response	3	2183506	64039	1						
+Gary	19	Pulse	255	2196744	77277	NA						
+Gary	19	Pulse	255	2216745	97278	NA						
+Gary	20	Picture	Display Scale	2224774	0	1	22328	2	0	next	other	0
+Gary	20	Pulse	255	2236746	11972	NA						
+Gary	20	Response	1	2246956	22182	1						
+Gary	20	Response	3	2248626	23852	1						
+Gary	20	Response	2	2252208	27434	1						
+Gary	20	Response	4	2253759	28985	1						
+Gary	20	Response	2	2254382	29608	2						
+Gary	20	Response	4	2255734	30960	1						
+Gary	20	Response	2	2256267	31493	1						
+Gary	20	Pulse	255	2256747	31973	NA						
+Gary	20	Response	4	2257224	32450	1						
+Gary	20	Response	2	2259184	34410	2						
+Gary	20	Response	4	2260317	35543	1						
+Gary	20	Response	2	2270208	45434	1						
+Gary	20	Response	4	2271374	46600	1						
+Gary	20	Manual	Rated: Difficulty : 79	2274770	49996							
+Gary	21	Picture	Display Scale	2274928	0	1	1666	2	0	next	other	0
+Gary	21	Response	1	2276538	1610	1						
+Gary	21	Pulse	255	2276748	1820	NA						
+Gary	21	Response	3	2278313	3385	1						
+Gary	21	Response	2	2289834	14906	1						
+Gary	21	Response	4	2290738	15810	1						
+Gary	21	Response	2	2291740	16812	2						
+Gary	21	Response	4	2292450	17522	1						
+Gary	21	Response	2	2293772	18844	1						
+Gary	21	Response	4	2294615	19687	1						
+Gary	21	Response	2	2295462	20534	1						
+Gary	21	Response	4	2296487	21559	2						
+Gary	21	Pulse	255	2296750	21822	NA						
+Gary	21	Response	2	2297485	22557	1						
+Gary	21	Response	4	2298312	23384	1						
+Gary	21	Response	2	2299379	24451	1						
+Gary	21	Response	4	2300452	25524	1						
+Gary	21	Response	2	2315675	40747	1						
+Gary	21	Response	4	2316489	41561	1						
+Gary	21	Pulse	255	2316751	41823	NA						
+Gary	21	Manual	Rated: This pain : 82	2324920	49992							
+Gary	22	Picture	crossITI_8	2325082	0	1	80146	3	0	80000	other	0
+Gary	22	Pulse	255	2336752	11670	NA						
+Gary	22	Pulse	255	2356753	31671	NA						
+Gary	22	Pulse	255	2376754	51672	NA						
+Gary	22	Pulse	255	2396755	71673	NA						
+Gary	23	Picture	Left	2405395	0	1	25161	2	0	25000	other	0
+Gary	23	Pulse	255	2416756	11361	NA						
+Gary	24	Picture	greenbox1	2431888	15000	2	30160	3	15000	30000	other	0
+Gary	24	Pulse	255	2436757	19869	NA						
+Gary	24	Pulse	255	2456758	39870	NA						
+Gary	25	Picture	crossISI_4_8	2462214	0	1	120137	2	0	120000	other	0
+Gary	25	Pulse	255	2476759	14545	NA						
+Gary	25	Pulse	255	2496760	34546	NA						
+Gary	25	Response	1	2504025	41811	1						
+Gary	25	Response	3	2506218	44004	1						
+Gary	25	Pulse	255	2516761	54547	NA						
+Gary	25	Pulse	255	2536763	74549	NA						
+Gary	25	Pulse	255	2556764	94550	NA						
+Gary	25	Pulse	255	2576765	114551	NA						
+Gary	26	Picture	Display Scale	2582517	0	2	30159	4	0	next	other	0
+Gary	26	Pulse	255	2596766	14249	NA						
+Gary	26	Manual	Rated:   : 75	2612510	29993							
+Gary	27	Picture	cross_4_65	2612676	0	2	105141	3	0	105000	other	0
+Gary	27	Pulse	255	2616767	4091	NA						
+Gary	27	Pulse	255	2636768	24092	NA						
+Gary	27	Pulse	255	2656769	44093	NA						
+Gary	27	Response	2	2675953	63277	1						
+Gary	27	Pulse	255	2676770	64094	NA						
+Gary	27	Response	4	2677532	64856	1						
+Gary	27	Pulse	255	2696771	84095	NA						
+Gary	27	Pulse	255	2716772	104096	NA						
+Gary	28	Picture	Display Scale	2717983	0	2	17996	3	0	next	other	0
+Gary	28	Response	2	2735851	17868	1						
+Gary	28	Pulse	255	2736773	18790	NA						
+Gary	28	Response	4	2737173	19190	1						
+Gary	28	Response	2	2740508	22525	1						
+Gary	28	Response	4	2741881	23898	2						
+Gary	28	Pulse	255	2756774	38791	NA						
+Gary	28	Manual	Rated: Difficulty : 67	2767980	49997							
+Gary	29	Picture	Display Scale	2768137	0	2	23994	3	0	next	other	0
+Gary	29	Pulse	255	2776776	8639	NA						
+Gary	29	Response	2	2792101	23964	1						
+Gary	29	Response	4	2793012	24875	1						
+Gary	29	Pulse	255	2796777	28640	NA						
+Gary	29	Pulse	255	2816778	48641	NA						
+Gary	29	Manual	Rated: This vibration : 56	2818130	49993							
+Gary	30	Picture	crossITI_8	2818291	0	2	80147	3	0	80000	other	0
+Gary	30	Pulse	255	2836779	18488	NA						
+Gary	30	Pulse	255	2856780	38489	NA						
+Gary	30	Pulse	255	2876781	58490	NA						
+Gary	30	Pulse	255	2896782	78491	NA						
+Gary	31	Picture	redbox1	2898605	0	1	30159	2	0	30000	other	0
+Gary	31	Pulse	255	2916783	18178	NA						
+Gary	32	Picture	crossISI_4_8	2928930	0	2	120137	3	0	120000	other	0
+Gary	32	Pulse	255	2936784	7854	NA						
+Gary	32	Pulse	255	2956785	27855	NA						
+Gary	32	Pulse	255	2976786	47856	NA						
+Gary	32	Pulse	255	2996787	67857	NA						
+Gary	32	Response	1	3011347	82417	1						
+Gary	32	Response	3	3013392	84462	1						
+Gary	32	Pulse	255	3016789	87859	NA						
+Gary	32	Pulse	255	3036790	107860	NA						
+Gary	33	Picture	redbox2	3049233	0	2	30160	3	0	30000	other	0
+Gary	33	Pulse	255	3056791	7558	NA						
+Gary	33	Pulse	255	3076792	27559	NA						
+Gary	34	Picture	cross_4_65	3079559	0	1	105140	3	0	105000	other	0
+Gary	34	Pulse	255	3096793	17234	NA						
+Gary	34	Pulse	255	3116794	37235	NA						
+Gary	34	Pulse	255	3136795	57236	NA						
+Gary	34	Response	1	3141265	61706	1						
+Gary	34	Response	3	3143269	63710	2						
+Gary	34	Pulse	255	3156796	77237	NA						
+Gary	34	Pulse	255	3176797	97238	NA						
+Gary	35	Picture	Display Scale	3184866	0	1	7498	2	0	next	other	0
+Gary	35	Response	1	3192300	7434	1						
+Gary	35	Response	3	3194036	9170	1						
+Gary	35	Response	1	3194622	9756	1						
+Gary	35	Response	3	3195813	10947	1						
+Gary	35	Pulse	255	3196798	11932	NA						
+Gary	35	Response	2	3198786	13920	1						
+Gary	35	Response	4	3200089	15223	1						
+Gary	35	Response	2	3200796	15930	3						
+Gary	35	Response	4	3201647	16781	1						
+Gary	35	Response	2	3202491	17625	1						
+Gary	35	Response	4	3203515	18649	1						
+Gary	35	Response	2	3204185	19319	1						
+Gary	35	Response	4	3205327	20461	2						
+Gary	35	Response	2	3206189	21323	1						
+Gary	35	Response	4	3207170	22304	1						
+Gary	35	Response	2	3207894	23028	2						
+Gary	35	Response	4	3209062	24196	2						
+Gary	35	Response	2	3209720	24854	1						
+Gary	35	Response	4	3210810	25944	1						
+Gary	35	Response	2	3211537	26671	1						
+Gary	35	Response	4	3212526	27660	1						
+Gary	35	Pulse	255	3216799	31933	NA						
+Gary	35	Manual	Rated: Difficulty : 87	3234860	49994							
+Gary	36	Picture	Display Scale	3235020	0	1	16829	2	0	next	other	0
+Gary	36	Pulse	255	3236801	1781	NA						
+Gary	36	Response	1	3251727	16707	1						
+Gary	36	Response	3	3254982	19962	1						
+Gary	36	Pulse	255	3256802	21782	NA						
+Gary	36	Response	1	3258045	23025	1						
+Gary	36	Response	3	3259171	24151	2						
+Gary	36	Response	1	3260625	25605	1						
+Gary	36	Response	3	3261861	26841	1						
+Gary	36	Pulse	255	3276803	41783	NA						
+Gary	36	Manual	Rated: Difference : 13	3285020	50000							
+Gary	37	Picture	crossITI_8	3285174	0	1	80147	2	0	80000	other	0
+Gary	37	Pulse	255	3296804	11630	NA						
+Gary	37	Pulse	255	3316805	31631	NA						
+Gary	37	Pulse	255	3336806	51632	NA						
+Gary	37	Pulse	255	3356807	71633	NA						
+Gary	38	Picture	Right	3365487	0	2	25161	3	0	25000	other	0
+Gary	38	Pulse	255	3376808	11321	NA						
+Gary	39	Picture	redbox1	3391981	15000	1	30159	2	15000	30000	other	0
+Gary	39	Pulse	255	3396809	19828	NA						
+Gary	39	Pulse	255	3416810	39829	NA						
+Gary	40	Picture	crossISI_4_8	3422307	0	1	120136	2	0	120000	other	0
+Gary	40	Pulse	255	3436811	14504	NA						
+Gary	40	Pulse	255	3456812	34505	NA						
+Gary	40	Response	1	3466320	44013	1						
+Gary	40	Response	3	3468558	46251	1						
+Gary	40	Pulse	255	3476814	54507	NA						
+Gary	40	Pulse	255	3496815	74508	NA						
+Gary	40	Pulse	255	3516816	94509	NA						
+Gary	40	Pulse	255	3536817	114510	NA						
+Gary	41	Picture	redbox2	3542610	0	1	30159	2	0	30000	other	0
+Gary	41	Pulse	255	3556818	14208	NA						
+Gary	42	Picture	cross_4_65	3572935	0	2	105141	3	0	105000	other	0
+Gary	42	Pulse	255	3576819	3884	NA						
+Gary	42	Pulse	255	3596820	23885	NA						
+Gary	42	Pulse	255	3616821	43886	NA						
+Gary	42	Response	2	3621949	49014	1						
+Gary	42	Response	4	3623609	50674	1						
+Gary	42	Pulse	255	3636822	63887	NA						
+Gary	42	Pulse	255	3656823	83888	NA						
+Gary	42	Pulse	255	3676824	103889	NA						
+Gary	43	Picture	Display Scale	3678242	0	1	15663	2	0	next	other	0
+Gary	43	Response	1	3693826	15584	1						
+Gary	43	Response	3	3695696	17454	2						
+Gary	43	Pulse	255	3696825	18583	NA						
+Gary	43	Response	2	3698803	20561	1						
+Gary	43	Response	4	3700205	21963	1						
+Gary	43	Response	2	3703570	25328	1						
+Gary	43	Response	4	3704855	26613	1						
+Gary	43	Response	2	3706117	27875	1						
+Gary	43	Response	4	3706890	28648	1						
+Gary	43	Response	2	3708003	29761	1						
+Gary	43	Response	4	3709204	30962	1						
+Gary	43	Response	2	3710260	32018	1						
+Gary	43	Response	4	3711563	33321	1						
+Gary	43	Response	2	3715538	37296	2						
+Gary	43	Response	4	3716570	38328	1						
+Gary	43	Pulse	255	3716827	38585	NA						
+Gary	43	Manual	Rated: Difficulty : 84	3728240	49998							
+Gary	44	Picture	Display Scale	3728396	0	2	11831	3	0	next	other	0
+Gary	44	Pulse	255	3736828	8432	NA						
+Gary	44	Response	1	3740164	11768	1						
+Gary	44	Response	3	3741816	13420	1						
+Gary	44	Response	1	3742558	14162	2						
+Gary	44	Response	3	3743937	15541	1						
+Gary	44	Response	1	3744984	16588	2						
+Gary	44	Response	3	3746274	17878	1						
+Gary	44	Response	1	3747506	19110	2						
+Gary	44	Response	3	3748600	20204	1						
+Gary	44	Pulse	255	3756829	28433	NA						
+Gary	44	Pulse	255	3776830	48434	NA						
+Gary	44	Manual	Rated: Difference : 12	3778390	49994							
+Gary	45	Picture	crossITI_8	3778550	0	2	80147	3	0	80000	other	0
+Gary	45	Pulse	255	3796831	18281	NA						
+Gary	45	Pulse	255	3816832	38282	NA						
+Gary	45	Pulse	255	3836833	58283	NA						
+Gary	45	Pulse	255	3856834	78284	NA						
+Gary	46	Picture	greenbox1	3858863	0	2	30160	3	0	30000	other	0
+Gary	46	Pulse	255	3876835	17972	NA						
+Gary	47	Picture	crossISI_4_8	3889189	0	1	120137	2	0	120000	other	0
+Gary	47	Pulse	255	3896836	7647	NA						
+Gary	47	Pulse	255	3916837	27648	NA						
+Gary	47	Pulse	255	3936838	47649	NA						
+Gary	47	Response	1	3944275	55086	1						
+Gary	47	Response	3	3946578	57389	1						
+Gary	47	Pulse	255	3956840	67651	NA						
+Gary	47	Pulse	255	3976841	87652	NA						
+Gary	47	Pulse	255	3996842	107653	NA						
+Gary	48	Picture	Display Scale	4009492	0	1	30159	3	0	next	other	0
+Gary	48	Pulse	255	4016843	7351	NA						
+Gary	48	Pulse	255	4036844	27352	NA						
+Gary	48	Manual	Rated:   : 75	4039490	29998							
+Gary	49	Picture	cross_4_65	4039651	0	2	105141	3	0	105000	other	0
+Gary	49	Pulse	255	4056845	17194	NA						
+Gary	49	Pulse	255	4076846	37195	NA						
+Gary	49	Pulse	255	4096847	57196	NA						
+Gary	49	Response	1	4107953	68302	1						
+Gary	49	Response	3	4109959	70308	1						
+Gary	49	Pulse	255	4116848	77197	NA						
+Gary	49	Pulse	255	4136849	97198	NA						
+Gary	50	Picture	Display Scale	4144958	0	1	25327	3	0	next	other	0
+Gary	50	Pulse	255	4156850	11892	NA						
+Gary	50	Response	2	4170108	25150	1						
+Gary	50	Response	4	4171608	26650	1						
+Gary	50	Response	2	4172781	27823	1						
+Gary	50	Response	4	4174217	29259	2						
+Gary	50	Pulse	255	4176852	31894	NA						
+Gary	50	Manual	Rated: Difficulty : 67	4194950	49992							
+Gary	51	Picture	Display Scale	4195112	0	2	13830	4	0	next	other	0
+Gary	51	Pulse	255	4196853	1741	NA						
+Gary	51	Response	2	4208863	13751	1						
+Gary	51	Response	4	4210546	15434	1						
+Gary	51	Response	2	4212018	16906	1						
+Gary	51	Response	4	4213563	18451	1						
+Gary	51	Response	2	4214354	19242	1						
+Gary	51	Response	4	4215517	20405	2						
+Gary	51	Response	2	4216659	21547	1						
+Gary	51	Pulse	255	4216854	21742	NA						
+Gary	51	Response	4	4217761	22649	1						
+Gary	51	Pulse	255	4236855	41743	NA						
+Gary	51	Manual	Rated: This pain : 85	4245110	49998							
+Gary	52	Picture	crossITI_8	4245266	0	2	80147	3	0	80000	other	0
+Gary	52	Pulse	255	4256856	11590	NA						
+Gary	52	Pulse	255	4276857	31591	NA						
+Gary	52	Pulse	255	4296858	51592	NA						
+Gary	52	Pulse	255	4316859	71593	NA						
+Gary	53	Picture	Left	4325580	0	1	25160	2	0	25000	other	0
+Gary	53	Pulse	255	4336860	11280	NA						
+Gary	54	Picture	greenbox1	4351906	15000	1	30159	3	15000	30000	other	0
+Gary	54	Pulse	255	4356861	19955	NA						
+Gary	54	Pulse	255	4376862	39956	NA						
+Gary	55	Picture	crossISI_4_8	4382232	0	1	120136	3	0	120000	other	0
+Gary	55	Pulse	255	4396863	14631	NA						
+Gary	55	Pulse	255	4416865	34633	NA						
+Gary	55	Response	1	4424725	42493	1						
+Gary	55	Response	3	4426798	44566	1						
+Gary	55	Pulse	255	4436866	54634	NA						
+Gary	55	Pulse	255	4456867	74635	NA						
+Gary	55	Pulse	255	4476868	94636	NA						
+Gary	55	Pulse	255	4496869	114637	NA						
+Gary	56	Picture	Display Scale	4502535	0	1	30159	2	0	next	other	0
+Gary	56	Pulse	255	4516870	14335	NA						
+Gary	56	Manual	Rated:   : 75	4532530	29995							
+Gary	57	Picture	cross_4_65	4532694	0	1	105140	3	0	105000	other	0
+Gary	57	Pulse	255	4536871	4177	NA						
+Gary	57	Pulse	255	4556872	24178	NA						
+Gary	57	Response	2	4576409	43715	1						
+Gary	57	Pulse	255	4576873	44179	NA						
+Gary	57	Response	4	4578588	45894	1						
+Gary	57	Pulse	255	4596874	64180	NA						
+Gary	57	Pulse	255	4616875	84181	NA						
+Gary	57	Pulse	255	4636876	104182	NA						
+Gary	58	Picture	Display Scale	4638001	0	1	35325	2	0	next	other	0
+Gary	58	Pulse	255	4656878	18877	NA						
+Gary	58	Response	1	4673286	35285	1						
+Gary	58	Response	3	4674892	36891	1						
+Gary	58	Pulse	255	4676879	38878	NA						
+Gary	58	Response	2	4677964	39963	1						
+Gary	58	Response	4	4678764	40763	2						
+Gary	58	Manual	Rated: Difficulty : 44	4688000	49999							
+Gary	59	Picture	Display Scale	4688155	0	1	21995	2	0	next	other	0
+Gary	59	Pulse	255	4696880	8725	NA						
+Gary	59	Response	1	4710064	21909	1						
+Gary	59	Response	3	4711666	23511	2						
+Gary	59	Response	1	4714137	25982	2						
+Gary	59	Response	3	4715980	27825	1						
+Gary	59	Pulse	255	4716881	28726	NA						
+Gary	59	Response	1	4717751	29596	1						
+Gary	59	Response	3	4719472	31317	1						
+Gary	59	Response	1	4722151	33996	1						
+Gary	59	Response	3	4723259	35104	1						
+Gary	59	Pulse	255	4736882	48727	NA						
+Gary	59	Manual	Rated: This vibration : 9	4738150	49995							
+Gary	60	Picture	crossITI_8	4738309	0	2	80147	3	0	80000	other	0
+Gary	60	Pulse	255	4756883	18574	NA						
+Gary	60	Pulse	255	4776884	38575	NA						
+Gary	60	Pulse	255	4796885	58576	NA						
+Gary	60	Pulse	255	4816886	78577	NA						
+Gary	61	Picture	redbox1	4818622	0	2	30159	4	0	30000	other	0
+Gary	61	Pulse	255	4836887	18265	NA						
+Gary	62	Picture	crossISI_4_8	4848948	0	1	120137	2	0	120000	other	0
+Gary	62	Pulse	255	4856888	7940	NA						
+Gary	62	Pulse	255	4876889	27941	NA						
+Gary	62	Pulse	255	4896891	47943	NA						
+Gary	62	Response	1	4906834	57886	2						
+Gary	62	Response	3	4909165	60217	2						
+Gary	62	Pulse	255	4916892	67944	NA						
+Gary	62	Pulse	255	4936893	87945	NA						
+Gary	62	Pulse	255	4956894	107946	NA						
+Gary	63	Picture	redbox2	4969251	0	2	30159	4	0	30000	other	0
+Gary	63	Pulse	255	4976895	7644	NA						
+Gary	63	Pulse	255	4996896	27645	NA						
+Gary	64	Picture	cross_4_65	4999577	0	1	105140	3	0	105000	other	0
+Gary	64	Pulse	255	5016897	17320	NA						
+Gary	64	Pulse	255	5036898	37321	NA						
+Gary	64	Pulse	255	5056899	57322	NA						
+Gary	64	Pulse	255	5076900	77323	NA						
+Gary	64	Response	1	5095404	95827	1						
+Gary	64	Pulse	255	5096901	97324	NA						
+Gary	64	Response	3	5097314	97737	2						
+Gary	65	Picture	Display Scale	5104884	0	1	13330	2	0	next	other	0
+Gary	65	Pulse	255	5116903	12019	NA						
+Gary	65	Response	2	5118123	13239	1						
+Gary	65	Response	4	5119999	15115	1						
+Gary	65	Response	2	5120628	15744	2						
+Gary	65	Response	4	5122740	17856	2						
+Gary	65	Response	2	5124723	19839	1						
+Gary	65	Response	4	5125981	21097	2						
+Gary	65	Response	2	5131574	26690	1						
+Gary	65	Response	4	5132181	27297	2						
+Gary	65	Pulse	255	5136904	32020	NA						
+Gary	65	Response	2	5142918	38034	1						
+Gary	65	Response	4	5143885	39001	1						
+Gary	65	Manual	Rated: Difficulty : 95	5154880	49996							
+Gary	66	Picture	Display Scale	5155038	0	1	14830	2	0	next	other	0
+Gary	66	Pulse	255	5156905	1867	NA						
+Gary	66	Response	1	5169821	14783	1						
+Gary	66	Response	3	5175873	20835	1						
+Gary	66	Pulse	255	5176906	21868	NA						
+Gary	66	Response	1	5177971	22933	1						
+Gary	66	Response	3	5179246	24208	1						
+Gary	66	Pulse	255	5196907	41869	NA						
+Gary	66	Manual	Rated: Difference : 2	5205030	49992							
+Gary	67	Picture	crossITI_8	5205192	0	1	80147	2	0	80000	other	0
+Gary	67	Pulse	255	5216908	11716	NA						
+Gary	67	Pulse	255	5236909	31717	NA						
+Gary	67	Pulse	255	5256910	51718	NA						
+Gary	67	Pulse	255	5276911	71719	NA						
+Gary	68	Picture	Right	5285505	0	1	25161	2	0	25000	other	0
+Gary	68	Pulse	255	5296912	11407	NA						
+Gary	69	Picture	redbox1	5311999	15000	1	30159	2	15000	30000	other	0
+Gary	69	Pulse	255	5316913	19914	NA						
+Gary	69	Pulse	255	5336914	39915	NA						
+Gary	70	Picture	crossISI_4_8	5342324	0	1	120137	2	0	120000	other	0
+Gary	70	Pulse	255	5356916	14592	NA						
+Gary	70	Pulse	255	5376917	34593	NA						
+Gary	70	Response	1	5396220	53896	1						
+Gary	70	Pulse	255	5396918	54594	NA						
+Gary	70	Response	3	5397535	55211	1						
+Gary	70	Pulse	255	5416919	74595	NA						
+Gary	70	Pulse	255	5436920	94596	NA						
+Gary	70	Pulse	255	5456921	114597	NA						
+Gary	71	Picture	redbox2	5462627	0	2	30159	4	0	30000	other	0
+Gary	71	Pulse	255	5476922	14295	NA						
+Gary	72	Picture	cross_4_65	5492953	0	1	105140	3	0	105000	other	0
+Gary	72	Pulse	255	5496923	3970	NA						
+Gary	72	Pulse	255	5516924	23971	NA						
+Gary	72	Pulse	255	5536925	43972	NA						
+Gary	72	Response	1	5546101	53148	1						
+Gary	72	Response	3	5547917	54964	1						
+Gary	72	Pulse	255	5556926	63973	NA						
+Gary	72	Pulse	255	5576927	83974	NA						
+Gary	72	Pulse	255	5596929	103976	NA						
+Gary	73	Picture	Display Scale	5598260	0	1	50154	2	0	next	other	0
+Gary	73	Pulse	255	5616930	18670	NA						
+Gary	73	Pulse	255	5636931	38671	NA						
+Gary	73	Manual	Rated: Difficulty : 50	5648260	50000							
+Gary	74	Picture	Display Scale	5648414	0	1	19162	2	0	next	other	0
+Gary	74	Pulse	255	5656932	8518	NA						
+Gary	74	Response	1	5667411	18997	1						
+Gary	74	Response	3	5669444	21030	1						
+Gary	74	Response	1	5671350	22936	1						
+Gary	74	Response	3	5672697	24283	1						
+Gary	74	Pulse	255	5676933	28519	NA						
+Gary	74	Pulse	255	5696934	48520	NA						
+Gary	74	Manual	Rated: Difference : 27	5698410	49996							
+Gary	75	Picture	crossITI_8	5698568	0	1	80147	2	0	80000	other	0
+Gary	75	Pulse	255	5716935	18367	NA						
+Gary	75	Pulse	255	5736936	38368	NA						
+Gary	75	Pulse	255	5756937	58369	NA						
+Gary	75	Pulse	255	5776938	78370	NA						
+Gary	76	Picture	redbox1	5778881	0	1	30159	3	0	30000	other	0
+Gary	76	Pulse	255	5796939	18058	NA						
+Gary	77	Picture	crossISI_4_8	5809207	0	1	120137	2	0	120000	other	0
+Gary	77	Pulse	255	5816941	7734	NA						
+Gary	77	Pulse	255	5836942	27735	NA						
+Gary	77	Pulse	255	5856943	47736	NA						
+Gary	77	Response	1	5872039	62832	1						
+Gary	77	Response	3	5874288	65081	1						
+Gary	77	Pulse	255	5876944	67737	NA						
+Gary	77	Pulse	255	5896945	87738	NA						
+Gary	77	Pulse	255	5916946	107739	NA						
+Gary	78	Picture	redbox2	5929510	0	1	30159	3	0	30000	other	0
+Gary	78	Pulse	255	5936947	7437	NA						
+Gary	78	Pulse	255	5956948	27438	NA						
+Gary	79	Picture	cross_4_65	5959836	0	1	105140	2	0	105000	other	0
+Gary	79	Pulse	255	5976949	17113	NA						
+Gary	79	Pulse	255	5996950	37114	NA						
+Gary	79	Response	1	6016798	56962	1						
+Gary	79	Pulse	255	6016951	57115	NA						
+Gary	79	Response	3	6018656	58820	1						
+Gary	79	Pulse	255	6036952	77116	NA						
+Gary	79	Pulse	255	6056954	97118	NA						
+Gary	80	Picture	Display Scale	6065143	0	1	18995	2	0	next	other	0
+Gary	80	Pulse	255	6076955	11812	NA						
+Gary	80	Response	2	6084032	18889	1						
+Gary	80	Response	4	6085712	20569	2						
+Gary	80	Response	1	6089603	24460	1						
+Gary	80	Response	3	6091295	26152	1						
+Gary	80	Response	1	6092090	26947	1						
+Gary	80	Response	3	6093348	28205	1						
+Gary	80	Response	1	6095075	29932	1						
+Gary	80	Response	3	6096286	31143	1						
+Gary	80	Pulse	255	6096956	31813	NA						
+Gary	80	Response	1	6097446	32303	1						
+Gary	80	Response	3	6098600	33457	1						
+Gary	80	Manual	Rated: Difficulty : 25	6115140	49997							
+Gary	81	Picture	Display Scale	6115297	0	1	50154	2	0	next	other	0
+Gary	81	Pulse	255	6116957	1660	NA						
+Gary	81	Pulse	255	6136958	21661	NA						
+Gary	81	Pulse	255	6156959	41662	NA						
+Gary	81	Manual	Rated: Difference : 49	6165290	49993							
+Gary	82	Picture	crossITI_8	6165451	0	1	80146	3	0	80000	other	0
+Gary	82	Pulse	255	6176960	11509	NA						
+Gary	82	Pulse	255	6196961	31510	NA						
+Gary	82	Pulse	255	6216962	51511	NA						
+Gary	82	Pulse	255	6236963	71512	NA						
+Gary	83	Picture	Left	6245764	0	1	25160	3	0	25000	other	0
+Gary	83	Pulse	255	6256964	11200	NA						
+Gary	84	Picture	greenbox1	6272091	15000	1	30159	2	15000	30000	other	0
+Gary	84	Pulse	255	6276965	19874	NA						
+Gary	84	Pulse	255	6296967	39876	NA						
+Gary	85	Picture	crossISI_4_8	6302416	0	2	120137	3	0	120000	other	0
+Gary	85	Pulse	255	6316968	14552	NA						
+Gary	85	Pulse	255	6336969	34553	NA						
+Gary	85	Response	1	6345837	43421	1						
+Gary	85	Response	3	6347840	45424	2						
+Gary	85	Pulse	255	6356970	54554	NA						
+Gary	85	Pulse	255	6376971	74555	NA						
+Gary	85	Pulse	255	6396972	94556	NA						
+Gary	85	Pulse	255	6416973	114557	NA						
+Gary	86	Picture	Display Scale	6422720	0	1	30159	2	0	next	other	0
+Gary	86	Pulse	255	6436974	14254	NA						
+Gary	86	Manual	Rated:   : 75	6452720	30000							
+Gary	87	Picture	cross_4_65	6452879	0	1	105140	2	0	105000	other	0
+Gary	87	Pulse	255	6456975	4096	NA						
+Gary	87	Pulse	255	6476976	24097	NA						
+Gary	87	Pulse	255	6496977	44098	NA						
+Gary	87	Response	2	6499566	46687	1						
+Gary	87	Response	4	6501297	48418	2						
+Gary	87	Pulse	255	6516979	64100	NA						
+Gary	87	Pulse	255	6536980	84101	NA						
+Gary	87	Pulse	255	6556981	104102	NA						
+Gary	88	Picture	Display Scale	6558186	0	1	19995	2	0	next	other	0
+Gary	88	Pulse	255	6576982	18796	NA						
+Gary	88	Response	2	6578057	19871	1						
+Gary	88	Response	4	6579697	21511	1						
+Gary	88	Response	1	6583381	25195	1						
+Gary	88	Response	3	6584926	26740	2						
+Gary	88	Response	1	6585795	27609	1						
+Gary	88	Response	3	6587195	29009	1						
+Gary	88	Response	1	6588089	29903	1						
+Gary	88	Response	3	6589249	31063	1						
+Gary	88	Response	1	6590242	32056	2						
+Gary	88	Response	3	6591231	33045	2						
+Gary	88	Response	1	6592189	34003	1						
+Gary	88	Response	3	6593116	34930	1						
+Gary	88	Pulse	255	6596983	38797	NA						
+Gary	88	Manual	Rated: Difficulty : 19	6608180	49994							
+Gary	89	Picture	Display Scale	6608340	0	1	15496	2	0	next	other	0
+Gary	89	Pulse	255	6616984	8644	NA						
+Gary	89	Response	1	6623793	15453	1						
+Gary	89	Response	3	6625603	17263	1						
+Gary	89	Response	2	6635767	27427	1						
+Gary	89	Response	4	6636800	28460	1						
+Gary	89	Pulse	255	6636985	28645	NA						
+Gary	89	Pulse	255	6656986	48646	NA						
+Gary	89	Manual	Rated: This vibration : 44	6658340	50000							
+Gary	90	Picture	crossITI_8	6658494	0	1	80146	3	0	80000	other	0
+Gary	90	Pulse	255	6676987	18493	NA						
+Gary	90	Pulse	255	6696988	38494	NA						
+Gary	90	Pulse	255	6716989	58495	NA						
+Gary	90	Pulse	255	6736990	78496	NA						
+Gary	91	Picture	greenbox1	6738807	0	1	30159	2	0	30000	other	0
+Gary	91	Pulse	255	6756992	18185	NA						
+Gary	92	Picture	crossISI_4_8	6769133	0	1	120136	2	0	120000	other	0
+Gary	92	Pulse	255	6776993	7860	NA						
+Gary	92	Pulse	255	6796994	27861	NA						
+Gary	92	Pulse	255	6816995	47862	NA						
+Gary	92	Response	1	6835263	66130	1						
+Gary	92	Pulse	255	6836996	67863	NA						
+Gary	92	Response	3	6837579	68446	1						
+Gary	92	Pulse	255	6856997	87864	NA						
+Gary	92	Pulse	255	6876998	107865	NA						
+Gary	93	Picture	Display Scale	6889436	0	1	30159	2	0	next	other	0
+Gary	93	Pulse	255	6896999	7563	NA						
+Gary	93	Pulse	255	6917000	27564	NA						
+Gary	93	Manual	Rated:   : 25	6919430	29994							
+Gary	94	Picture	cross_4_65	6919595	0	1	105140	2	0	105000	other	0
+Gary	94	Pulse	255	6937001	17406	NA						
+Gary	94	Pulse	255	6957002	37407	NA						
+Gary	94	Pulse	255	6977003	57408	NA						
+Gary	94	Response	1	6994723	75128	1						
+Gary	94	Response	3	6996538	76943	1						
+Gary	94	Pulse	255	6997005	77410	NA						
+Gary	94	Pulse	255	7017006	97411	NA						
+Gary	95	Picture	Display Scale	7024902	0	1	18162	2	0	next	other	0
+Gary	95	Pulse	255	7037007	12105	NA						
+Gary	95	Response	1	7042993	18091	2						
+Gary	95	Response	3	7044692	19790	1						
+Gary	95	Response	1	7046074	21172	1						
+Gary	95	Response	3	7048019	23117	2						
+Gary	95	Pulse	255	7057008	32106	NA						
+Gary	95	Manual	Rated: Difficulty : 26	7074900	49998							
+Gary	96	Picture	Display Scale	7075056	0	1	26326	3	0	next	other	0
+Gary	96	Pulse	255	7077009	1953	NA						
+Gary	96	Pulse	255	7097010	21954	NA						
+Gary	96	Response	1	7101303	26247	2						
+Gary	96	Response	3	7103288	28232	2						
+Gary	96	Response	1	7106448	31392	1						
+Gary	96	Response	3	7107790	32734	1						
+Gary	96	Pulse	255	7117011	41955	NA						
+Gary	96	Manual	Rated: This pain : 27	7125050	49994							
+Gary	97	Picture	crossITI_8	7125210	0	1	80146	3	0	80000	other	0
+Gary	97	Pulse	255	7137012	11802	NA						
+Gary	97	Pulse	255	7157013	31803	NA						
+Gary	97	Pulse	255	7177014	51804	NA						
+Gary	97	Pulse	255	7197015	71805	NA						
+Gary	98	Picture	Right	7205523	0	1	25160	3	0	25000	other	0
+Gary	98	Pulse	255	7217016	11493	NA						
+Gary	99	Picture	redbox1	7232183	15000	1	30159	2	15000	30000	other	0
+Gary	99	Pulse	255	7237018	19835	NA						
+Gary	99	Pulse	255	7257019	39836	NA						
+Gary	100	Picture	crossISI_4_8	7262509	0	1	120136	2	0	120000	other	0
+Gary	100	Pulse	255	7277020	14511	NA						
+Gary	100	Pulse	255	7297021	34512	NA						
+Gary	100	Response	1	7304598	42089	2						
+Gary	100	Response	3	7306635	44126	1						
+Gary	100	Pulse	255	7317022	54513	NA						
+Gary	100	Pulse	255	7337023	74514	NA						
+Gary	100	Pulse	255	7357024	94515	NA						
+Gary	100	Pulse	255	7377025	114516	NA						
+Gary	101	Picture	redbox2	7382812	0	1	30159	2	0	30000	other	0
+Gary	101	Pulse	255	7397026	14214	NA						
+Gary	102	Picture	cross_4_65	7413137	0	2	105141	3	0	105000	other	0
+Gary	102	Pulse	255	7417027	3890	NA						
+Gary	102	Pulse	255	7437028	23891	NA						
+Gary	102	Pulse	255	7457030	43893	NA						
+Gary	102	Response	1	7464793	51656	1						
+Gary	102	Response	3	7466621	53484	1						
+Gary	102	Pulse	255	7477031	63894	NA						
+Gary	102	Pulse	255	7497032	83895	NA						
+Gary	102	Pulse	255	7517033	103896	NA						
+Gary	103	Picture	Display Scale	7518444	0	2	15330	3	0	next	other	0
+Gary	103	Response	1	7533747	15303	1						
+Gary	103	Response	3	7535612	17168	1						
+Gary	103	Response	1	7536480	18036	1						
+Gary	103	Pulse	255	7537034	18590	NA						
+Gary	103	Response	3	7537835	19391	1						
+Gary	103	Response	1	7538875	20431	1						
+Gary	103	Response	3	7540158	21714	2						
+Gary	103	Response	1	7541036	22592	1						
+Gary	103	Response	3	7542367	23923	2						
+Gary	103	Pulse	255	7557035	38591	NA						
+Gary	103	Manual	Rated: Difficulty : 10	7568440	49996							
+Gary	104	Picture	Display Scale	7568599	0	1	8164	2	0	next	other	0
+Gary	104	Response	2	7576684	8085	1						
+Gary	104	Pulse	255	7577036	8437	NA						
+Gary	104	Response	4	7577793	9194	2						
+Gary	104	Response	2	7588883	20284	1						
+Gary	104	Response	4	7590312	21713	1						
+Gary	104	Pulse	255	7597037	28438	NA						
+Gary	104	Pulse	255	7617038	48439	NA						
+Gary	104	Manual	Rated: Difference : 67	7618590	49991							
+Gary	105	Picture	crossITI_8	7618753	0	1	80146	2	0	80000	other	0
+Gary	105	Pulse	255	7637039	18286	NA						
+Gary	105	Pulse	255	7657040	38287	NA						
+Gary	105	Pulse	255	7677041	58288	NA						
+Gary	105	Pulse	255	7697043	78290	NA						
+Gary	106	Picture	redbox1	7699066	0	1	30159	2	0	30000	other	0
+Gary	106	Pulse	255	7717044	17978	NA						
+Gary	107	Picture	crossISI_4_8	7729392	0	1	120136	2	0	120000	other	0
+Gary	107	Pulse	255	7737045	7653	NA						
+Gary	107	Pulse	255	7757046	27654	NA						
+Gary	107	Pulse	255	7777047	47655	NA						
+Gary	107	Response	1	7785579	56187	1						
+Gary	107	Response	3	7787883	58491	1						
+Gary	107	Pulse	255	7797048	67656	NA						
+Gary	107	Pulse	255	7817049	87657	NA						
+Gary	107	Pulse	255	7837050	107658	NA						
+Gary	108	Picture	redbox2	7849695	0	1	30159	2	0	30000	other	0
+Gary	108	Pulse	255	7857051	7356	NA						
+Gary	108	Pulse	255	7877052	27357	NA						
+Gary	109	Picture	cross_4_65	7880020	0	2	105141	3	0	105000	other	0
+Gary	109	Pulse	255	7897053	17033	NA						
+Gary	109	Pulse	255	7917054	37034	NA						
+Gary	109	Pulse	255	7937056	57036	NA						
+Gary	109	Pulse	255	7957057	77037	NA						
+Gary	109	Response	2	7963355	83335	1						
+Gary	109	Response	4	7965614	85594	2						
+Gary	109	Pulse	255	7977058	97038	NA						
+Gary	110	Picture	Display Scale	7985327	0	1	17163	2	0	next	other	0
+Gary	110	Pulse	255	7997059	11732	NA						
+Gary	110	Response	1	8002393	17066	1						
+Gary	110	Response	3	8003884	18557	1						
+Gary	110	Response	2	8005293	19966	1						
+Gary	110	Response	4	8006881	21554	1						
+Gary	110	Response	2	8007522	22195	1						
+Gary	110	Response	4	8008985	23658	1						
+Gary	110	Response	2	8009667	24340	1						
+Gary	110	Response	4	8010729	25402	1						
+Gary	110	Response	2	8011310	25983	2						
+Gary	110	Response	4	8012475	27148	1						
+Gary	110	Response	2	8013390	28063	2						
+Gary	110	Response	4	8014184	28857	2						
+Gary	110	Response	2	8015408	30081	1						
+Gary	110	Response	4	8016860	31533	1						
+Gary	110	Pulse	255	8017060	31733	NA						
+Gary	110	Response	1	8025799	40472	1						
+Gary	110	Response	3	8027312	41985	1						
+Gary	110	Manual	Rated: Difficulty : 80	8035320	49993							
+Gary	111	Picture	Display Scale	8035481	0	1	24827	3	0	next	other	0
+Gary	111	Pulse	255	8037061	1580	NA						
+Gary	111	Pulse	255	8057062	21581	NA						
+Gary	111	Response	1	8060218	24737	2						
+Gary	111	Response	3	8063013	27532	1						
+Gary	111	Response	1	8064525	29044	1						
+Gary	111	Response	3	8066623	31142	1						
+Gary	111	Response	1	8069319	33838	1						
+Gary	111	Response	3	8070620	35139	2						
+Gary	111	Pulse	255	8077063	41582	NA						
+Gary	111	Manual	Rated: Difference : 10	8085480	49999							
+Gary	112	Picture	crossITI_8	8085635	0	2	80147	3	0	80000	other	0
+Gary	112	Pulse	255	8097064	11429	NA						
+Gary	112	Pulse	255	8117065	31430	NA						
+Gary	112	Pulse	255	8137066	51431	NA						
+Gary	112	Pulse	255	8157068	71433	NA						
+Gary	113	Picture	Left	8165948	0	2	25161	3	0	25000	other	0
+Gary	113	Pulse	255	8177069	11121	NA						
+Gary	114	Picture	greenbox1	8192109	15000	1	30159	2	15000	30000	other	0
+Gary	114	Pulse	255	8197070	19961	NA						
+Gary	114	Pulse	255	8217071	39962	NA						
+Gary	115	Picture	crossISI_4_8	8222434	0	1	120137	2	0	120000	other	0
+Gary	115	Pulse	255	8237072	14638	NA						
+Gary	115	Pulse	255	8257073	34639	NA						
+Gary	115	Response	1	8264376	41942	1						
+Gary	115	Response	3	8266565	44131	1						
+Gary	115	Pulse	255	8277074	54640	NA						
+Gary	115	Pulse	255	8297075	74641	NA						
+Gary	115	Pulse	255	8317076	94642	NA						
+Gary	115	Pulse	255	8337077	114643	NA						
+Gary	116	Picture	Display Scale	8342737	0	2	30159	4	0	next	other	0
+Gary	116	Pulse	255	8357078	14341	NA						
+Gary	116	Manual	Rated:   : 25	8372730	29993							
+Gary	117	Picture	cross_4_65	8372896	0	2	105141	3	0	105000	other	0
+Gary	117	Pulse	255	8377079	4183	NA						
+Gary	117	Pulse	255	8397081	24185	NA						
+Gary	117	Pulse	255	8417082	44186	NA						
+Gary	117	Response	1	8436991	64095	1						
+Gary	117	Pulse	255	8437083	64187	NA						
+Gary	117	Response	3	8439360	66464	1						
+Gary	117	Pulse	255	8457084	84188	NA						
+Gary	117	Pulse	255	8477085	104189	NA						
+Gary	118	Picture	Display Scale	8478203	0	2	9998	3	0	next	other	0
+Gary	118	Response	1	8488155	9952	1						
+Gary	118	Response	3	8490173	11970	1						
+Gary	118	Response	1	8492137	13934	1						
+Gary	118	Response	3	8493903	15700	1						
+Gary	118	Pulse	255	8497086	18883	NA						
+Gary	118	Pulse	255	8517087	38884	NA						
+Gary	118	Manual	Rated: Difficulty : 24	8528200	49997							
+Gary	119	Picture	Display Scale	8528358	0	1	1332	3	0	next	other	0
+Gary	119	Response	2	8529588	1230	1						
+Gary	119	Response	4	8531213	2855	1						
+Gary	119	Response	1	8536503	8145	1						
+Gary	119	Pulse	255	8537088	8730	NA						
+Gary	119	Response	3	8542036	13678	2						
+Gary	119	Pulse	255	8557089	28731	NA						
+Gary	119	Response	2	8557125	28767	1						
+Gary	119	Response	4	8558222	29864	1						
+Gary	119	Response	1	8560967	32609	1						
+Gary	119	Response	3	8562648	34290	1						
+Gary	119	Response	2	8566255	37897	2						
+Gary	119	Response	4	8567030	38672	1						
+Gary	119	Pulse	255	8577090	48732	NA						
+Gary	119	Manual	Rated: This vibration : 28	8578350	49992							
+Gary	120	Picture	crossITI_8	8578512	0	1	80146	2	0	80000	other	0
+Gary	120	Pulse	255	8597091	18579	NA						
+Gary	120	Pulse	255	8617092	38580	NA						
+Gary	120	Pulse	255	8637094	58582	NA						
+Gary	120	Pulse	255	8657095	78583	NA						
+Gary	121	Picture	greenbox1	8658825	0	1	30159	2	0	30000	other	0
+Gary	121	Pulse	255	8677096	18271	NA						
+Gary	122	Picture	crossISI_4_8	8689150	0	2	120137	3	0	120000	other	0
+Gary	122	Pulse	255	8697097	7947	NA						
+Gary	122	Pulse	255	8717098	27948	NA						
+Gary	122	Pulse	255	8737099	47949	NA						
+Gary	122	Response	1	8744025	54875	1						
+Gary	122	Response	3	8746214	57064	1						
+Gary	122	Pulse	255	8757100	67950	NA						
+Gary	122	Pulse	255	8777101	87951	NA						
+Gary	122	Pulse	255	8797102	107952	NA						
+Gary	123	Picture	Display Scale	8809454	0	1	30159	2	0	next	other	0
+Gary	123	Pulse	255	8817103	7649	NA						
+Gary	123	Pulse	255	8837104	27650	NA						
+Gary	123	Manual	Rated:   : 25	8839450	29996							
+Gary	124	Picture	cross_4_65	8839613	0	1	105140	2	0	105000	other	0
+Gary	124	Pulse	255	8857106	17493	NA						
+Gary	124	Pulse	255	8877107	37494	NA						
+Gary	124	Pulse	255	8897108	57495	NA						
+Gary	124	Pulse	255	8917109	77496	NA						
+Gary	124	Response	2	8930037	90424	2						
+Gary	124	Response	4	8931857	92244	1						
+Gary	124	Pulse	255	8937110	97497	NA						
+Gary	125	Picture	Display Scale	8944920	0	1	14996	2	0	next	other	0
+Gary	125	Pulse	255	8957111	12191	NA						
+Gary	125	Response	1	8959769	14849	1						
+Gary	125	Response	3	8961316	16396	1						
+Gary	125	Response	1	8963785	18865	1						
+Gary	125	Response	3	8965250	20330	2						
+Gary	125	Response	1	8966214	21294	1						
+Gary	125	Response	3	8967755	22835	2						
+Gary	125	Pulse	255	8977112	32192	NA						
+Gary	125	Manual	Rated: Difficulty : 18	8994920	50000							
+Gary	126	Picture	Display Scale	8995074	0	1	21328	2	0	next	other	0
+Gary	126	Pulse	255	8997113	2039	NA						
+Gary	126	Response	1	9016268	21194	2						
+Gary	126	Pulse	255	9017114	22040	NA						
+Gary	126	Response	3	9018010	22936	1						
+Gary	126	Response	1	9019016	23942	1						
+Gary	126	Response	3	9020656	25582	2						
+Gary	126	Response	1	9021699	26625	2						
+Gary	126	Response	3	9023202	28128	1						
+Gary	126	Pulse	255	9037115	42041	NA						
+Gary	126	Manual	Rated: This pain : 17	9045070	49996							
+Gary	127	Picture	crossITI_8	9045228	0	1	80146	3	0	80000	other	0
+Gary	127	Pulse	255	9057116	11888	NA						
+Gary	127	Pulse	255	9077117	31889	NA						
+Gary	127	Pulse	255	9097119	51891	NA						
+Gary	127	Pulse	255	9117120	71892	NA						
+Gary	128	Picture	Right	9125541	0	1	25160	2	0	25000	other	0
+Gary	128	Pulse	255	9137121	11580	NA						
+Gary	129	Picture	redbox1	9152201	15000	1	30159	2	15000	30000	other	0
+Gary	129	Pulse	255	9157122	19921	NA						
+Gary	129	Pulse	255	9177123	39922	NA						
+Gary	130	Picture	crossISI_4_8	9182527	0	1	120136	2	0	120000	other	0
+Gary	130	Pulse	255	9197124	14597	NA						
+Gary	130	Pulse	255	9217125	34598	NA						
+Gary	130	Pulse	255	9237126	54599	NA						
+Gary	130	Response	1	9242702	60175	1						
+Gary	130	Response	3	9244980	62453	1						
+Gary	130	Pulse	255	9257127	74600	NA						
+Gary	130	Pulse	255	9277128	94601	NA						
+Gary	130	Pulse	255	9297129	114602	NA						
+Gary	131	Picture	redbox2	9302830	0	1	30159	2	0	30000	other	0
+Gary	131	Pulse	255	9317130	14300	NA						
+Gary	132	Picture	cross_4_65	9333155	0	2	105141	3	0	105000	other	0
+Gary	132	Pulse	255	9337132	3977	NA						
+Gary	132	Pulse	255	9357133	23978	NA						
+Gary	132	Response	1	9374819	41664	2						
+Gary	132	Response	3	9376768	43613	2						
+Gary	132	Pulse	255	9377134	43979	NA						
+Gary	132	Pulse	255	9397135	63980	NA						
+Gary	132	Pulse	255	9417136	83981	NA						
+Gary	132	Pulse	255	9437137	103982	NA						
+Gary	133	Picture	Display Scale	9438462	0	1	50154	3	0	next	other	0
+Gary	133	Pulse	255	9457138	18676	NA						
+Gary	133	Pulse	255	9477139	38677	NA						
+Gary	133	Manual	Rated: Difficulty : 50	9488460	49998							
+Gary	134	Picture	Display Scale	9488616	0	2	50154	4	0	next	other	0
+Gary	134	Pulse	255	9497140	8524	NA						
+Gary	134	Pulse	255	9517141	28525	NA						
+Gary	134	Pulse	255	9537142	48526	NA						
+Gary	134	Manual	Rated: Difference : 49	9538610	49994							
+Gary	135	Picture	crossITI_8	9538770	0	2	80147	3	0	80000	other	0
+Gary	135	Pulse	255	9557144	18374	NA						
+Gary	135	Pulse	255	9577145	38375	NA						
+Gary	135	Pulse	255	9597146	58376	NA						
+Gary	135	Pulse	255	9617147	78377	NA						
+Gary	136	Picture	redbox1	9619084	0	1	30159	2	0	30000	other	0
+Gary	136	Pulse	255	9637148	18064	NA						
+Gary	137	Picture	crossISI_4_8	9649409	0	2	120137	3	0	120000	other	0
+Gary	137	Pulse	255	9657149	7740	NA						
+Gary	137	Pulse	255	9677150	27741	NA						
+Gary	137	Pulse	255	9697151	47742	NA						
+Gary	137	Response	1	9699665	50256	1						
+Gary	137	Response	3	9701545	52136	1						
+Gary	137	Pulse	255	9717152	67743	NA						
+Gary	137	Pulse	255	9737153	87744	NA						
+Gary	137	Pulse	255	9757154	107745	NA						
+Gary	138	Picture	redbox2	9769712	0	2	30160	3	0	30000	other	0
+Gary	138	Pulse	255	9777155	7443	NA						
+Gary	138	Pulse	255	9797157	27445	NA						
+Gary	139	Picture	cross_4_65	9800038	0	1	105140	3	0	105000	other	0
+Gary	139	Pulse	255	9817158	17120	NA						
+Gary	139	Pulse	255	9837159	37121	NA						
+Gary	139	Response	2	9850199	50161	1						
+Gary	139	Response	4	9852030	51992	1						
+Gary	139	Pulse	255	9857160	57122	NA						
+Gary	139	Pulse	255	9877161	77123	NA						
+Gary	139	Pulse	255	9897162	97124	NA						
+Gary	140	Picture	Display Scale	9905345	0	1	21495	2	0	next	other	0
+Gary	140	Pulse	255	9917163	11818	NA						
+Gary	140	Response	2	9926703	21358	1						
+Gary	140	Response	4	9928174	22829	1						
+Gary	140	Response	2	9930185	24840	2						
+Gary	140	Response	4	9931383	26038	1						
+Gary	140	Pulse	255	9937164	31819	NA						
+Gary	140	Response	1	9949593	44248	1						
+Gary	140	Response	3	9950836	45491	1						
+Gary	140	Manual	Rated: Difficulty : 59	9955340	49995							
+Gary	141	Picture	Display Scale	9955499	0	1	8498	2	0	next	other	0
+Gary	141	Pulse	255	9957165	1666	NA						
+Gary	141	Response	1	9963871	8372	1						
+Gary	141	Response	3	9965665	10166	1						
+Gary	141	Response	1	9967423	11924	1						
+Gary	141	Response	3	9968855	13356	1						
+Gary	141	Pulse	255	9977166	21667	NA						
+Gary	141	Response	1	9978447	22948	2						
+Gary	141	Response	3	9979857	24358	1						
+Gary	141	Pulse	255	9997167	41668	NA						
+Gary	141	Manual	Rated: Difference : 17	10005500	50001							
+Gary	142	Picture	crossITI_8	10005653	0	1	80147	2	0	80000	other	0
+Gary	142	Pulse	255	10017169	11516	NA						
+Gary	142	Pulse	255	10037170	31517	NA						
+Gary	142	Pulse	255	10057171	51518	NA						
+Gary	142	Pulse	255	10077172	71519	NA						
+Gary	143	Picture	Left	10085966	0	1	25161	2	0	25000	other	0
+Gary	143	Pulse	255	10097173	11207	NA						
+Gary	144	Picture	greenbox1	10112293	15000	1	30159	2	15000	30000	other	0
+Gary	144	Pulse	255	10117174	19881	NA						
+Gary	144	Pulse	255	10137175	39882	NA						
+Gary	145	Picture	crossISI_4_8	10142619	0	1	120136	2	0	120000	other	0
+Gary	145	Pulse	255	10157176	14557	NA						
+Gary	145	Pulse	255	10177177	34558	NA						
+Gary	145	Pulse	255	10197178	54559	NA						
+Gary	145	Response	1	10198455	55836	1						
+Gary	145	Response	3	10200663	58044	1						
+Gary	145	Pulse	255	10217179	74560	NA						
+Gary	145	Pulse	255	10237180	94561	NA						
+Gary	145	Pulse	255	10257182	114563	NA						
+Gary	146	Picture	Display Scale	10262922	0	1	30159	2	0	next	other	0
+Gary	146	Pulse	255	10277183	14261	NA						
+Gary	146	Manual	Rated:   : 25	10292920	29998							
+Gary	147	Picture	cross_4_65	10293081	0	1	105140	3	0	105000	other	0
+Gary	147	Pulse	255	10297184	4103	NA						
+Gary	147	Pulse	255	10317185	24104	NA						
+Gary	147	Pulse	255	10337186	44105	NA						
+Gary	147	Response	2	10347693	54612	1						
+Gary	147	Response	4	10349803	56722	1						
+Gary	147	Pulse	255	10357187	64106	NA						
+Gary	147	Pulse	255	10377188	84107	NA						
+Gary	147	Pulse	255	10397189	104108	NA						
+Gary	148	Picture	Display Scale	10398388	0	1	23661	2	0	next	other	0
+Gary	148	Pulse	255	10417190	18802	NA						
+Gary	148	Response	2	10421969	23581	1						
+Gary	148	Response	4	10423615	25227	2						
+Gary	148	Response	1	10430870	32482	1						
+Gary	148	Response	3	10432019	33631	2						
+Gary	148	Response	2	10435126	36738	1						
+Gary	148	Response	4	10436148	37760	1						
+Gary	148	Pulse	255	10437191	38803	NA						
+Gary	148	Manual	Rated: Difficulty : 60	10448380	49992							
+Gary	149	Picture	Display Scale	10448542	0	1	10997	2	0	next	other	0
+Gary	149	Pulse	255	10457192	8650	NA						
+Gary	149	Response	1	10459504	10962	1						
+Gary	149	Response	3	10463140	14598	1						
+Gary	149	Response	1	10466469	17927	1						
+Gary	149	Response	3	10468023	19481	1						
+Gary	149	Pulse	255	10477193	28651	NA						
+Gary	149	Pulse	255	10497195	48653	NA						
+Gary	149	Manual	Rated: This vibration : 16	10498540	49998							
+Gary	150	Picture	crossITI_8	10498696	0	1	80147	2	0	80000	other	0
+Gary	150	Response	2	10501131	2435	2						
+Gary	150	Response	4	10501903	3207	1						
+Gary	150	Pulse	255	10517196	18500	NA						
+Gary	150	Pulse	255	10537197	38501	NA						
+Gary	150	Pulse	255	10557198	58502	NA						
+Gary	150	Pulse	255	10577199	78503	NA						
+Gary	151	Picture	redbox1	10579009	0	1	30159	2	0	30000	other	0
+Gary	151	Pulse	255	10597200	18191	NA						
+Gary	152	Picture	crossISI_4_8	10609335	0	1	120136	3	0	120000	other	0
+Gary	152	Pulse	255	10617201	7866	NA						
+Gary	152	Pulse	255	10637202	27867	NA						
+Gary	152	Response	1	10656221	46886	2						
+Gary	152	Pulse	255	10657203	47868	NA						
+Gary	152	Response	3	10657951	48616	1						
+Gary	152	Pulse	255	10677204	67869	NA						
+Gary	152	Pulse	255	10697205	87870	NA						
+Gary	152	Pulse	255	10717207	107872	NA						
+Gary	153	Picture	redbox2	10729638	0	1	30159	2	0	30000	other	0
+Gary	153	Pulse	255	10737208	7570	NA						
+Gary	153	Pulse	255	10757209	27571	NA						
+Gary	154	Picture	cross_4_65	10759964	0	1	105140	2	0	105000	other	0
+Gary	154	Pulse	255	10777210	17246	NA						
+Gary	154	Pulse	255	10797211	37247	NA						
+Gary	154	Response	2	10812231	52267	1						
+Gary	154	Response	4	10814378	54414	1						
+Gary	154	Pulse	255	10817212	57248	NA						
+Gary	154	Pulse	255	10837213	77249	NA						
+Gary	154	Pulse	255	10857214	97250	NA						
+Gary	155	Picture	Display Scale	10865271	0	1	37490	2	0	next	other	0
+Gary	155	Pulse	255	10877215	11944	NA						
+Gary	155	Pulse	255	10897216	31945	NA						
+Gary	155	Response	2	10902683	37412	1						
+Gary	155	Response	4	10903974	38703	1						
+Gary	155	Response	1	10908089	42818	1						
+Gary	155	Response	3	10909493	44222	1						
+Gary	155	Response	1	10911218	45947	1						
+Gary	155	Response	3	10912593	47322	1						
+Gary	155	Manual	Rated: Difficulty : 40	10915270	49999							
+Gary	156	Picture	Display Scale	10915425	0	1	12663	2	0	next	other	0
+Gary	156	Pulse	255	10917217	1792	NA						
+Gary	156	Response	1	10928070	12645	1						
+Gary	156	Response	3	10929957	14532	2						
+Gary	156	Pulse	255	10937218	21793	NA						
+Gary	156	Pulse	255	10957220	41795	NA						
+Gary	156	Manual	Rated: Difference : 36	10965420	49995							
+Gary	157	Picture	crossITI_8	10965579	0	1	80146	3	0	80000	other	0
+Gary	157	Pulse	255	10977221	11642	NA						
+Gary	157	Pulse	255	10997222	31643	NA						
+Gary	157	Pulse	255	11017223	51644	NA						
+Gary	157	Pulse	255	11037224	71645	NA						
+Gary	158	Picture	Right	11045892	0	1	25160	3	0	25000	other	0
+Gary	158	Pulse	255	11057225	11333	NA						
+Gary	159	Picture	redbox1	11072385	15000	2	30159	4	15000	30000	other	0
+Gary	159	Pulse	255	11077226	19841	NA						
+Gary	159	Pulse	255	11097227	39842	NA						
+Gary	160	Picture	crossISI_4_8	11102711	0	1	120136	3	0	120000	other	0
+Gary	160	Pulse	255	11117228	14517	NA						
+Gary	160	Pulse	255	11137229	34518	NA						
+Gary	160	Response	1	11145284	42573	1						
+Gary	160	Response	3	11147127	44416	2						
+Gary	160	Pulse	255	11157230	54519	NA						
+Gary	160	Pulse	255	11177232	74521	NA						
+Gary	160	Pulse	255	11197233	94522	NA						
+Gary	160	Pulse	255	11217234	114523	NA						
+Gary	161	Picture	redbox2	11223014	0	1	30159	2	0	30000	other	0
+Gary	161	Pulse	255	11237235	14221	NA						
+Gary	162	Picture	cross_4_65	11253340	0	1	105140	2	0	105000	other	0
+Gary	162	Pulse	255	11257236	3896	NA						
+Gary	162	Pulse	255	11277237	23897	NA						
+Gary	162	Response	1	11295754	42414	2						
+Gary	162	Pulse	255	11297238	43898	NA						
+Gary	162	Response	3	11297553	44213	1						
+Gary	162	Pulse	255	11317239	63899	NA						
+Gary	162	Pulse	255	11337240	83900	NA						
+Gary	162	Pulse	255	11357241	103901	NA						
+Gary	163	Picture	Display Scale	11358647	0	1	7498	2	0	next	other	0
+Gary	163	Response	1	11365974	7327	1						
+Gary	163	Response	3	11371382	12735	1						
+Gary	163	Response	1	11373929	15282	1						
+Gary	163	Response	3	11375710	17063	2						
+Gary	163	Pulse	255	11377242	18595	NA						
+Gary	163	Pulse	255	11397243	38596	NA						
+Gary	163	Manual	Rated: Difficulty : 5	11408640	49993							
+Gary	164	Picture	Display Scale	11408801	0	1	6332	2	0	next	other	0
+Gary	164	Response	2	11415071	6270	2						
+Gary	164	Pulse	255	11417245	8444	NA						
+Gary	164	Response	4	11418106	9305	1						
+Gary	164	Response	2	11419983	11182	1						
+Gary	164	Response	4	11421685	12884	1						
+Gary	164	Response	2	11423860	15059	1						
+Gary	164	Response	4	11425356	16555	1						
+Gary	164	Pulse	255	11437246	28445	NA						
+Gary	164	Pulse	255	11457247	48446	NA						
+Gary	164	Manual	Rated: Difference : 89	11458800	49999							
+Gary	165	Picture	crossITI_8	11458955	0	1	80146	3	0	80000	other	0
+Gary	165	Pulse	255	11477248	18293	NA						
+Gary	165	Pulse	255	11497249	38294	NA						
+Gary	165	Pulse	255	11517250	58295	NA						
+Gary	165	Pulse	255	11537251	78296	NA						
+Gary	166	Picture	greenbox1	11539268	0	1	30159	2	0	30000	other	0
+Gary	166	Pulse	255	11557252	17984	NA						
+Gary	167	Picture	crossISI_4_8	11569594	0	1	120136	3	0	120000	other	0
+Gary	167	Pulse	255	11577253	7659	NA						
+Gary	167	Pulse	255	11597254	27660	NA						
+Gary	167	Pulse	255	11617255	47661	NA						
+Gary	167	Response	1	11620667	51073	1						
+Gary	167	Response	3	11622571	52977	1						
+Gary	167	Pulse	255	11637257	67663	NA						
+Gary	167	Pulse	255	11657258	87664	NA						
+Gary	167	Pulse	255	11677259	107665	NA						
+Gary	168	Picture	Display Scale	11689897	0	1	30159	2	0	next	other	0
+Gary	168	Pulse	255	11697260	7363	NA						
+Gary	168	Pulse	255	11717261	27364	NA						
+Gary	168	Manual	Rated:   : 25	11719890	29993							
+Gary	169	Picture	cross_4_65	11720056	0	1	105140	2	0	105000	other	0
+Gary	169	Pulse	255	11737262	17206	NA						
+Gary	169	Pulse	255	11757263	37207	NA						
+Gary	169	Pulse	255	11777264	57208	NA						
+Gary	169	Response	2	11789369	69313	2						
+Gary	169	Response	4	11790900	70844	1						
+Gary	169	Pulse	255	11797265	77209	NA						
+Gary	169	Pulse	255	11817266	97210	NA						
+Gary	170	Picture	Display Scale	11825363	0	1	21161	2	0	next	other	0
+Gary	170	Pulse	255	11837267	11904	NA						
+Gary	170	Response	1	11846415	21052	1						
+Gary	170	Response	3	11848239	22876	1						
+Gary	170	Pulse	255	11857268	31905	NA						
+Gary	170	Response	2	11860505	35142	1						
+Gary	170	Response	4	11862139	36776	1						
+Gary	170	Response	2	11865753	40390	2						
+Gary	170	Response	4	11867093	41730	1						
+Gary	170	Response	1	11870288	44925	1						
+Gary	170	Response	3	11871597	46234	2						
+Gary	170	Manual	Rated: Difficulty : 48	11875360	49997							
+Gary	171	Picture	Display Scale	11875517	0	1	11164	2	0	next	other	0
+Gary	171	Pulse	255	11877270	1753	NA						
+Gary	171	Response	2	11886635	11118	1						
+Gary	171	Response	4	11889278	13761	1						
+Gary	171	Response	1	11892485	16968	1						
+Gary	171	Response	3	11894644	19127	1						
+Gary	171	Response	1	11896742	21225	2						
+Gary	171	Pulse	255	11897271	21754	NA						
+Gary	171	Response	3	11898730	23213	1						
+Gary	171	Response	1	11899311	23794	1						
+Gary	171	Response	3	11900553	25036	2						
+Gary	171	Response	1	11901430	25913	2						
+Gary	171	Response	3	11902661	27144	1						
+Gary	171	Response	1	11903911	28394	1						
+Gary	171	Response	3	11905128	29611	2						
+Gary	171	Response	1	11911236	35719	1						
+Gary	171	Response	3	11912267	36750	1						
+Gary	171	Pulse	255	11917272	41755	NA						
+Gary	171	Manual	Rated: This pain : 7	11925510	49993							
+Gary	172	Picture	crossITI_8	11925671	0	1	80147	2	0	80000	other	0
+Gary	172	Pulse	255	11937273	11602	NA						
+Gary	172	Pulse	255	11957274	31603	NA						
+Gary	172	Pulse	255	11977275	51604	NA						
+Gary	172	Pulse	255	11997276	71605	NA						
+Gary	173	Picture	Left	12005984	0	1	25161	2	0	25000	other	0
+Gary	173	Pulse	255	12017277	11293	NA						
+Gary	174	Picture	greenbox1	12032311	15000	1	30159	2	15000	30000	other	0
+Gary	174	Pulse	255	12037278	19967	NA						
+Gary	174	Pulse	255	12057279	39968	NA						
+Gary	175	Picture	crossISI_4_8	12062637	0	1	120136	2	0	120000	other	0
+Gary	175	Pulse	255	12077280	14643	NA						
+Gary	175	Pulse	255	12097281	34644	NA						
+Gary	175	Response	1	12103979	41342	1						
+Gary	175	Response	3	12106378	43741	1						
+Gary	175	Pulse	255	12117283	54646	NA						
+Gary	175	Pulse	255	12137284	74647	NA						
+Gary	175	Pulse	255	12157285	94648	NA						
+Gary	175	Pulse	255	12177286	114649	NA						
+Gary	176	Picture	Display Scale	12182940	0	1	30159	2	0	next	other	0
+Gary	176	Pulse	255	12197287	14347	NA						
+Gary	176	Manual	Rated:   : 25	12212940	30000							
+Gary	177	Picture	cross_4_65	12213099	0	1	105140	2	0	105000	other	0
+Gary	177	Pulse	255	12217288	4189	NA						
+Gary	177	Pulse	255	12237289	24190	NA						
+Gary	177	Pulse	255	12257290	44191	NA						
+Gary	177	Pulse	255	12277291	64192	NA						
+Gary	177	Response	1	12291039	77940	1						
+Gary	177	Response	3	12293154	80055	1						
+Gary	177	Pulse	255	12297292	84193	NA						
+Gary	177	Pulse	255	12317293	104194	NA						
+Gary	178	Picture	Display Scale	12318406	0	1	17329	2	0	next	other	0
+Gary	178	Response	2	12335595	17189	1						
+Gary	178	Response	4	12337018	18612	1						
+Gary	178	Pulse	255	12337294	18888	NA						
+Gary	178	Response	2	12339210	20804	1						
+Gary	178	Response	4	12340642	22236	1						
+Gary	178	Response	2	12341889	23483	1						
+Gary	178	Response	4	12342913	24507	2						
+Gary	178	Response	2	12350532	32126	1						
+Gary	178	Response	4	12351808	33402	1						
+Gary	178	Pulse	255	12357296	38890	NA						
+Gary	178	Manual	Rated: Difficulty : 84	12368400	49994							
+Gary	179	Picture	Display Scale	12368560	0	1	7831	2	0	next	other	0
+Gary	179	Response	1	12376303	7743	1						
+Gary	179	Pulse	255	12377297	8737	NA						
+Gary	179	Response	3	12377843	9283	1						
+Gary	179	Response	1	12379547	10987	2						
+Gary	179	Response	3	12381007	12447	1						
+Gary	179	Response	1	12383221	14661	1						
+Gary	179	Response	3	12384630	16070	2						
+Gary	179	Pulse	255	12397298	28738	NA						
+Gary	179	Pulse	255	12417299	48739	NA						
+Gary	179	Manual	Rated: This vibration : 21	12418560	50000							
+Gary	180	Picture	crossITI_8	12418714	0	1	80146	3	0	80000	other	0
+Gary	180	Pulse	255	12437300	18586	NA						
+Gary	180	Pulse	255	12457301	38587	NA						
+Gary	180	Pulse	255	12477302	58588	NA						
+Gary	180	Pulse	255	12497303	78589	NA						
+Gary	181	Picture	redbox1	12499027	0	1	30159	2	0	30000	other	0
+Gary	181	Pulse	255	12517304	18277	NA						
+Gary	182	Picture	crossISI_4_8	12529353	0	1	120136	2	0	120000	other	0
+Gary	182	Pulse	255	12537305	7952	NA						
+Gary	182	Pulse	255	12557306	27953	NA						
+Gary	182	Pulse	255	12577308	47955	NA						
+Gary	182	Response	1	12590081	60728	1						
+Gary	182	Response	3	12592417	63064	1						
+Gary	182	Pulse	255	12597309	67956	NA						
+Gary	182	Pulse	255	12617310	87957	NA						
+Gary	182	Pulse	255	12637311	107958	NA						
+Gary	183	Picture	redbox2	12649656	0	1	30159	2	0	30000	other	0
+Gary	183	Pulse	255	12657312	7656	NA						
+Gary	183	Pulse	255	12677313	27657	NA						
+Gary	184	Picture	cross_4_65	12679982	0	1	105140	2	0	105000	other	0
+Gary	184	Pulse	255	12697314	17332	NA						
+Gary	184	Pulse	255	12717315	37333	NA						
+Gary	184	Response	1	12731880	51898	2						
+Gary	184	Response	3	12734463	54481	2						
+Gary	184	Pulse	255	12737316	57334	NA						
+Gary	184	Pulse	255	12757317	77335	NA						
+Gary	184	Pulse	255	12777318	97336	NA						
+Gary	185	Picture	Display Scale	12785288	0	2	11831	3	0	next	other	0
+Gary	185	Response	2	12796996	11708	1						
+Gary	185	Pulse	255	12797319	12031	NA						
+Gary	185	Response	4	12798667	13379	2						
+Gary	185	Response	2	12801070	15782	2						
+Gary	185	Response	4	12802401	17113	1						
+Gary	185	Pulse	255	12817321	32033	NA						
+Gary	185	Response	1	12822533	37245	1						
+Gary	185	Response	3	12825812	40524	1						
+Gary	185	Response	1	12826505	41217	1						
+Gary	185	Response	3	12827887	42599	1						
+Gary	185	Response	1	12828526	43238	2						
+Gary	185	Response	3	12829970	44682	1						
+Gary	185	Manual	Rated: Difficulty : 30	12835280	49992							
+Gary	186	Picture	Display Scale	12835443	0	1	499	3	0	next	other	0
+Gary	186	Response	1	12835915	472	1						
+Gary	186	Response	3	12836898	1455	1						
+Gary	186	Pulse	255	12837322	1879	NA						
+Gary	186	Response	1	12846737	11294	1						
+Gary	186	Response	3	12848017	12574	1						
+Gary	186	Response	2	12852576	17133	2						
+Gary	186	Response	4	12853923	18480	1						
+Gary	186	Response	2	12854591	19148	1						
+Gary	186	Response	4	12856096	20653	1						
+Gary	186	Response	2	12856538	21095	2						
+Gary	186	Pulse	255	12857323	21880	NA						
+Gary	186	Response	4	12857865	22422	1						
+Gary	186	Pulse	255	12877324	41881	NA						
+Gary	186	Manual	Rated: Difference : 61	12885440	49997							
+Gary	187	Picture	crossITI_8	12885597	0	1	80146	2	0	80000	other	0
+Gary	187	Pulse	255	12897325	11728	NA						
+Gary	187	Pulse	255	12917326	31729	NA						
+Gary	187	Pulse	255	12937327	51730	NA						
+Gary	187	Pulse	255	12957328	71731	NA						
+Gary	188	Picture	Right	12965910	0	1	25160	2	0	25000	other	0
+Gary	188	Pulse	255	12977329	11419	NA						
+Gary	189	Picture	redbox1	12992403	15000	1	30159	2	15000	30000	other	0
+Gary	189	Pulse	255	12997330	19927	NA						
+Gary	189	Pulse	255	13017331	39928	NA						
+Gary	190	Picture	crossISI_4_8	13022729	0	1	120136	2	0	120000	other	0
+Gary	190	Pulse	255	13037332	14603	NA						
+Gary	190	Pulse	255	13057334	34605	NA						
+Gary	190	Response	1	13064733	42004	2						
+Gary	190	Response	3	13066971	44242	1						
+Gary	190	Pulse	255	13077335	54606	NA						
+Gary	190	Pulse	255	13097336	74607	NA						
+Gary	190	Pulse	255	13117337	94608	NA						
+Gary	190	Pulse	255	13137338	114609	NA						
+Gary	191	Picture	redbox2	13143032	0	1	30159	2	0	30000	other	0
+Gary	191	Pulse	255	13157339	14307	NA						
+Gary	192	Picture	cross_4_65	13173358	0	1	105140	2	0	105000	other	0
+Gary	192	Pulse	255	13177340	3982	NA						
+Gary	192	Pulse	255	13197341	23983	NA						
+Gary	192	Response	1	13215608	42250	2						
+Gary	192	Pulse	255	13217342	43984	NA						
+Gary	192	Response	3	13217514	44156	1						
+Gary	192	Pulse	255	13237343	63985	NA						
+Gary	192	Pulse	255	13257344	83986	NA						
+Gary	192	Pulse	255	13277346	103988	NA						
+Gary	193	Picture	Display Scale	13278665	0	1	13496	2	0	next	other	0
+Gary	193	Response	1	13292016	13351	1						
+Gary	193	Response	3	13297147	18482	2						
+Gary	193	Pulse	255	13297347	18682	NA						
+Gary	193	Response	1	13299595	20930	1						
+Gary	193	Response	3	13301529	22864	1						
+Gary	193	Pulse	255	13317348	38683	NA						
+Gary	193	Manual	Rated: Difficulty : 6	13328660	49995							
+Gary	194	Picture	Display Scale	13328819	0	1	4998	3	0	next	other	0
+Gary	194	Response	2	13333684	4865	1						
+Gary	194	Response	4	13336924	8105	2						
+Gary	194	Pulse	255	13337349	8530	NA						
+Gary	194	Response	2	13337914	9095	2						
+Gary	194	Response	4	13339313	10494	1						
+Gary	194	Response	2	13340354	11535	1						
+Gary	194	Response	4	13341845	13026	1						
+Gary	194	Response	2	13342793	13974	1						
+Gary	194	Response	4	13344051	15232	1						
+Gary	194	Response	1	13350399	21580	1						
+Gary	194	Response	3	13351674	22855	1						
+Gary	194	Response	2	13355947	27128	2						
+Gary	194	Response	4	13356768	27949	2						
+Gary	194	Pulse	255	13357350	28531	NA						
+Gary	194	Pulse	255	13377351	48532	NA						
+Gary	194	Manual	Rated: Difference : 94	13378810	49991							
+Gary	195	Picture	crossITI_8	13378973	0	1	80146	3	0	80000	other	0
+Gary	195	Pulse	255	13397352	18379	NA						
+Gary	195	Pulse	255	13417353	38380	NA						
+Gary	195	Pulse	255	13437354	58381	NA						
+Gary	195	Pulse	255	13457355	78382	NA						
+Gary	196	Picture	greenbox1	13459286	0	1	30159	2	0	30000	other	0
+Gary	196	Pulse	255	13477356	18070	NA						
+Gary	197	Picture	crossISI_4_8	13489612	0	1	120136	2	0	120000	other	0
+Gary	197	Pulse	255	13497357	7745	NA						
+Gary	197	Pulse	255	13517359	27747	NA						
+Gary	197	Pulse	255	13537360	47748	NA						
+Gary	197	Response	1	13544241	54629	1						
+Gary	197	Response	3	13546114	56502	1						
+Gary	197	Pulse	255	13557361	67749	NA						
+Gary	197	Pulse	255	13577362	87750	NA						
+Gary	197	Pulse	255	13597363	107751	NA						
+Gary	198	Picture	Display Scale	13609915	0	1	30159	2	0	next	other	0
+Gary	198	Pulse	255	13617364	7449	NA						
+Gary	198	Pulse	255	13637365	27450	NA						
+Gary	198	Manual	Rated:   : 25	13639910	29995							
+Gary	199	Picture	cross_4_65	13640074	0	1	105140	2	0	105000	other	0
+Gary	199	Pulse	255	13657366	17292	NA						
+Gary	199	Pulse	255	13677367	37293	NA						
+Gary	199	Response	1	13687314	47240	1						
+Gary	199	Response	3	13689350	49276	2						
+Gary	199	Pulse	255	13697368	57294	NA						
+Gary	199	Pulse	255	13717369	77295	NA						
+Gary	199	Pulse	255	13737370	97296	NA						
+Gary	200	Picture	Display Scale	13745381	0	1	24494	2	0	next	other	0
+Gary	200	Pulse	255	13757372	11991	NA						
+Gary	200	Response	1	13769729	24348	1						
+Gary	200	Response	3	13771217	25836	1						
+Gary	200	Pulse	255	13777373	31992	NA						
+Gary	200	Manual	Rated: Difficulty : 39	13795380	49999							
+Gary	201	Picture	Display Scale	13795535	0	1	6998	2	0	next	other	0
+Gary	201	Pulse	255	13797374	1839	NA						
+Gary	201	Response	1	13802396	6861	1						
+Gary	201	Response	3	13805389	9854	1						
+Gary	201	Pulse	255	13817375	21840	NA						
+Gary	201	Pulse	255	13837376	41841	NA						
+Gary	201	Manual	Rated: This pain : 30	13845530	49995							
+Gary	202	Picture	crossITI_8	13845689	0	1	80146	3	0	80000	other	0
+Gary	202	Pulse	255	13857377	11688	NA						
+Gary	202	Pulse	255	13877378	31689	NA						
+Gary	202	Pulse	255	13897379	51690	NA						
+Gary	202	Pulse	255	13917380	71691	NA						
+Gary	203	Picture	Left	13926002	0	1	25160	3	0	25000	other	0
+Gary	203	Pulse	255	13937381	11379	NA						
+Gary	204	Picture	redbox1	13952495	15000	2	30159	4	15000	30000	other	0
+Gary	204	Pulse	255	13957382	19887	NA						
+Gary	204	Pulse	255	13977384	39889	NA						
+Gary	205	Picture	crossISI_4_8	13982821	0	1	120137	2	0	120000	other	0
+Gary	205	Pulse	255	13997385	14564	NA						
+Gary	205	Pulse	255	14017386	34565	NA						
+Gary	205	Response	1	14024341	41520	1						
+Gary	205	Response	3	14026105	43284	1						
+Gary	205	Pulse	255	14037387	54566	NA						
+Gary	205	Pulse	255	14057388	74567	NA						
+Gary	205	Pulse	255	14077389	94568	NA						
+Gary	205	Pulse	255	14097390	114569	NA						
+Gary	206	Picture	redbox2	14103124	0	2	30159	3	0	30000	other	0
+Gary	206	Pulse	255	14117391	14267	NA						
+Gary	207	Picture	cross_4_65	14133450	0	1	105140	2	0	105000	other	0
+Gary	207	Pulse	255	14137392	3942	NA						
+Gary	207	Pulse	255	14157393	23943	NA						
+Gary	207	Response	2	14176147	42697	1						
+Gary	207	Pulse	255	14177394	43944	NA						
+Gary	207	Response	4	14178249	44799	1						
+Gary	207	Pulse	255	14197395	63945	NA						
+Gary	207	Pulse	255	14217397	83947	NA						
+Gary	207	Pulse	255	14237398	103948	NA						
+Gary	208	Picture	Display Scale	14238757	0	1	19828	2	0	next	other	0
+Gary	208	Pulse	255	14257399	18642	NA						
+Gary	208	Response	2	14258551	19794	1						
+Gary	208	Response	4	14260653	21896	1						
+Gary	208	Response	2	14261985	23228	2						
+Gary	208	Response	4	14263323	24566	1						
+Gary	208	Pulse	255	14277400	38643	NA						
+Gary	208	Manual	Rated: Difficulty : 73	14288750	49993							
+Gary	209	Picture	Display Scale	14288911	0	1	6332	2	0	next	other	0
+Gary	209	Response	1	14295108	6197	1						
+Gary	209	Pulse	255	14297401	8490	NA						
+Gary	209	Response	3	14301309	12398	1						
+Gary	209	Response	2	14306510	17599	2						
+Gary	209	Response	4	14307728	18817	1						
+Gary	209	Pulse	255	14317402	28491	NA						
+Gary	209	Pulse	255	14337403	48492	NA						
+Gary	209	Manual	Rated: Difference : 19	14338910	49999							
+Gary	210	Picture	crossITI_8	14339065	0	1	80147	2	0	80000	other	0
+Gary	210	Pulse	255	14357404	18339	NA						
+Gary	210	Pulse	255	14377405	38340	NA						
+Gary	210	Pulse	255	14397406	58341	NA						
+Gary	210	Pulse	255	14417407	78342	NA						
+Gary	211	Picture	greenbox1	14419378	0	1	30159	2	0	30000	other	0
+Gary	211	Pulse	255	14437408	18030	NA						
+Gary	212	Picture	crossISI_4_8	14449704	0	1	120136	3	0	120000	other	0
+Gary	212	Pulse	255	14457410	7706	NA						
+Gary	212	Pulse	255	14477411	27707	NA						
+Gary	212	Pulse	255	14497412	47708	NA						
+Gary	212	Response	1	14503934	54230	1						
+Gary	212	Response	3	14506131	56427	1						
+Gary	212	Pulse	255	14517413	67709	NA						
+Gary	212	Pulse	255	14537414	87710	NA						
+Gary	212	Pulse	255	14557415	107711	NA						
+Gary	213	Picture	Display Scale	14570007	0	1	30159	2	0	next	other	0
+Gary	213	Pulse	255	14577416	7409	NA						
+Gary	213	Pulse	255	14597417	27410	NA						
+Gary	213	Manual	Rated:   : 75	14600000	29993							
+Gary	214	Picture	cross_4_65	14600166	0	1	105140	3	0	105000	other	0
+Gary	214	Pulse	255	14617418	17252	NA						
+Gary	214	Pulse	255	14637419	37253	NA						
+Gary	214	Pulse	255	14657420	57254	NA						
+Gary	214	Response	2	14666761	66595	1						
+Gary	214	Response	4	14669275	69109	1						
+Gary	214	Pulse	255	14677421	77255	NA						
+Gary	214	Pulse	255	14697423	97257	NA						
+Gary	215	Picture	Display Scale	14705473	0	1	14996	2	0	next	other	0
+Gary	215	Pulse	255	14717424	11951	NA						
+Gary	215	Response	1	14720352	14879	1						
+Gary	215	Response	3	14722133	16660	1						
+Gary	215	Response	1	14723105	17632	1						
+Gary	215	Response	3	14724696	19223	1						
+Gary	215	Response	1	14725510	20037	2						
+Gary	215	Response	3	14727004	21531	1						
+Gary	215	Pulse	255	14737425	31952	NA						
+Gary	215	Manual	Rated: Difficulty : 17	14755470	49997							
+Gary	216	Picture	Display Scale	14755627	0	1	14830	2	0	next	other	0
+Gary	216	Pulse	255	14757426	1799	NA						
+Gary	216	Response	1	14770403	14776	1						
+Gary	216	Response	3	14772615	16988	1						
+Gary	216	Response	1	14773993	18366	2						
+Gary	216	Response	3	14775865	20238	2						
+Gary	216	Pulse	255	14777427	21800	NA						
+Gary	216	Response	1	14785506	29879	1						
+Gary	216	Response	3	14787133	31506	1						
+Gary	216	Response	2	14793495	37868	1						
+Gary	216	Response	4	14794578	38951	1						
+Gary	216	Pulse	255	14797428	41801	NA						
+Gary	216	Manual	Rated: This pain : 19	14805620	49993							
+Gary	217	Picture	crossITI_8	14805781	0	1	80147	2	0	80000	other	0
+Gary	217	Pulse	255	14817429	11648	NA						
+Gary	217	Pulse	255	14837430	31649	NA						
+Gary	217	Pulse	255	14857431	51650	NA						
+Gary	217	Pulse	255	14877432	71651	NA						
+Gary	218	Picture	Right	14886094	0	2	25161	3	0	25000	other	0
+Gary	218	Pulse	255	14897433	11339	NA						
+Gary	219	Picture	greenbox1	14912588	15000	1	30159	2	15000	30000	other	0
+Gary	219	Pulse	255	14917435	19847	NA						
+Gary	219	Pulse	255	14937436	39848	NA						
+Gary	220	Picture	crossISI_4_8	14942913	0	2	120137	3	0	120000	other	0
+Gary	220	Pulse	255	14957437	14524	NA						
+Gary	220	Pulse	255	14977438	34525	NA						
+Gary	220	Response	1	14985440	42527	1						
+Gary	220	Response	3	14987270	44357	1						
+Gary	220	Pulse	255	14997439	54526	NA						
+Gary	220	Pulse	255	15017440	74527	NA						
+Gary	220	Pulse	255	15037441	94528	NA						
+Gary	220	Pulse	255	15057442	114529	NA						
+Gary	221	Picture	Display Scale	15063217	0	1	30159	2	0	next	other	0
+Gary	221	Pulse	255	15077443	14226	NA						
+Gary	221	Manual	Rated:   : 25	15093210	29993							
+Gary	222	Picture	cross_4_65	15093376	0	1	105140	2	0	105000	other	0
+Gary	222	Pulse	255	15097444	4068	NA						
+Gary	222	Pulse	255	15117445	24069	NA						
+Gary	222	Pulse	255	15137446	44070	NA						
+Gary	222	Response	1	15151446	58070	1						
+Gary	222	Response	3	15153186	59810	1						
+Gary	222	Pulse	255	15157448	64072	NA						
+Gary	222	Pulse	255	15177449	84073	NA						
+Gary	222	Pulse	255	15197450	104074	NA						
+Gary	223	Picture	Display Scale	15198683	0	1	6165	2	0	next	other	0
+Gary	223	Response	2	15204771	6088	1						
+Gary	223	Response	4	15209872	11189	1						
+Gary	223	Pulse	255	15217451	18768	NA						
+Gary	223	Pulse	255	15237452	38769	NA						
+Gary	223	Manual	Rated: Difficulty : 81	15248680	49997							
+Gary	224	Picture	Display Scale	15248837	0	1	7164	3	0	next	other	0
+Gary	224	Response	1	15255936	7099	1						
+Gary	224	Pulse	255	15257453	8616	NA						
+Gary	224	Response	3	15261099	12262	1						
+Gary	224	Pulse	255	15277454	28617	NA						
+Gary	224	Pulse	255	15297455	48618	NA						
+Gary	224	Manual	Rated: This vibration : 17	15298830	49993							
+Gary	225	Picture	crossITI_8	15298991	0	1	80146	2	0	80000	other	0
+Gary	225	Pulse	255	15317456	18465	NA						
+Gary	225	Pulse	255	15337457	38466	NA						
+Gary	225	Pulse	255	15357458	58467	NA						
+Gary	225	Pulse	255	15377459	78468	NA						
+Gary	226	Picture	redbox1	15379304	0	1	30159	2	0	30000	other	0
+Gary	226	Pulse	255	15397461	18157	NA						
+Gary	227	Picture	crossISI_4_8	15409630	0	1	120136	2	0	120000	other	0
+Gary	227	Pulse	255	15417462	7832	NA						
+Gary	227	Pulse	255	15437463	27833	NA						
+Gary	227	Pulse	255	15457464	47834	NA						
+Gary	227	Response	1	15471766	62136	1						
+Gary	227	Response	3	15473687	64057	1						
+Gary	227	Pulse	255	15477465	67835	NA						
+Gary	227	Pulse	255	15497466	87836	NA						
+Gary	227	Pulse	255	15517467	107837	NA						
+Gary	228	Picture	redbox2	15529933	0	1	30159	2	0	30000	other	0
+Gary	228	Pulse	255	15537468	7535	NA						
+Gary	228	Pulse	255	15557469	27536	NA						
+Gary	229	Picture	cross_4_65	15560258	0	2	105141	3	0	105000	other	0
+Gary	229	Pulse	255	15577470	17212	NA						
+Gary	229	Pulse	255	15597471	37213	NA						
+Gary	229	Pulse	255	15617473	57215	NA						
+Gary	229	Pulse	255	15637474	77216	NA						
+Gary	229	Response	2	15640849	80591	1						
+Gary	229	Response	4	15642383	82125	1						
+Gary	229	Pulse	255	15657475	97217	NA						
+Gary	230	Picture	Display Scale	15665565	0	1	29826	2	0	next	other	0
+Gary	230	Pulse	255	15677476	11911	NA						
+Gary	230	Response	1	15695304	29739	1						
+Gary	230	Response	3	15696928	31363	1						
+Gary	230	Pulse	255	15697477	31912	NA						
+Gary	230	Response	2	15700195	34630	1						
+Gary	230	Response	4	15700908	35343	1						
+Gary	230	Manual	Rated: Difficulty : 45	15715560	49995							
+Gary	231	Picture	Display Scale	15715719	0	2	20329	3	0	next	other	0
+Gary	231	Pulse	255	15717478	1759	NA						
+Gary	231	Response	1	15735997	20278	1						
+Gary	231	Pulse	255	15737479	21760	NA						
+Gary	231	Response	3	15737609	21890	1						
+Gary	231	Pulse	255	15757480	41761	NA						
+Gary	231	Manual	Rated: Difference : 38	15765720	50001							
+Gary	232	Picture	crossITI_8	15765873	0	2	80147	3	0	80000	other	0
+Gary	232	Pulse	255	15777481	11608	NA						
+Gary	232	Pulse	255	15797482	31609	NA						
+Gary	232	Pulse	255	15817483	51610	NA						
+Gary	232	Pulse	255	15837484	71611	NA						
+Gary	233	Picture	Left	15846187	0	1	25160	2	0	25000	other	0
+Gary	233	Pulse	255	15857486	11299	NA						
+Gary	234	Picture	greenbox1	15872513	15000	1	30159	3	15000	30000	other	0
+Gary	234	Pulse	255	15877487	19974	NA						
+Gary	234	Pulse	255	15897488	39975	NA						
+Gary	235	Picture	crossISI_4_8	15902839	0	1	120136	3	0	120000	other	0
+Gary	235	Pulse	255	15917489	14650	NA						
+Gary	235	Pulse	255	15937490	34651	NA						
+Gary	235	Response	1	15944770	41931	1						
+Gary	235	Response	3	15947071	44232	1						
+Gary	235	Pulse	255	15957491	54652	NA						
+Gary	235	Pulse	255	15977492	74653	NA						
+Gary	235	Pulse	255	15997493	94654	NA						
+Gary	235	Pulse	255	16017494	114655	NA						
+Gary	236	Picture	Display Scale	16023142	0	1	30159	2	0	next	other	0
+Gary	236	Pulse	255	16037495	14353	NA						
+Gary	236	Manual	Rated:   : 75	16053140	29998							
+Gary	237	Picture	cross_4_65	16053301	0	1	105140	3	0	105000	other	0
+Gary	237	Pulse	255	16057496	4195	NA						
+Gary	237	Pulse	255	16077497	24196	NA						
+Gary	237	Response	2	16096460	43159	1						
+Gary	237	Pulse	255	16097499	44198	NA						
+Gary	237	Response	4	16098455	45154	1						
+Gary	237	Pulse	255	16117500	64199	NA						
+Gary	237	Pulse	255	16137501	84200	NA						
+Gary	237	Pulse	255	16157502	104201	NA						
+Gary	238	Picture	Display Scale	16158608	0	1	18995	3	0	next	other	0
+Gary	238	Response	1	16177444	18836	1						
+Gary	238	Pulse	255	16177503	18895	NA						
+Gary	238	Response	3	16180419	21811	1						
+Gary	238	Response	1	16182079	23471	1						
+Gary	238	Response	3	16183796	25188	1						
+Gary	238	Response	1	16185420	26812	1						
+Gary	238	Response	3	16186873	28265	2						
+Gary	238	Pulse	255	16197504	38896	NA						
+Gary	238	Manual	Rated: Difficulty : 9	16208600	49992							
+Gary	239	Picture	Display Scale	16208762	0	1	6499	2	0	next	other	0
+Gary	239	Response	1	16215231	6469	2						
+Gary	239	Pulse	255	16217505	8743	NA						
+Gary	239	Response	3	16219708	10946	1						
+Gary	239	Response	1	16229215	20453	1						
+Gary	239	Response	3	16230875	22113	1						
+Gary	239	Pulse	255	16237506	28744	NA						
+Gary	239	Pulse	255	16257507	48745	NA						
+Gary	239	Manual	Rated: This vibration : 10	16258760	49998							
+Gary	240	Picture	crossITI_8	16258916	0	1	80147	2	0	80000	other	0
+Gary	240	Pulse	255	16277508	18592	NA						
+Gary	240	Pulse	255	16297509	38593	NA						
+Gary	240	Pulse	255	16317510	58594	NA						
+Gary	240	Pulse	255	16337512	78596	NA						
